@@ -1,0 +1,16 @@
+name spirit
+health 25000000
+defence 2500
+speed 350
+damage 4000000
+shoot 900
+distance 10
+aggro 1000
+spread 6
+angle 360
+steps 0
+loot suicide_bomb,nuclear_bomb
+amount 10
+voices 3
+minxp 90000
+maxxp 500000

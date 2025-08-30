@@ -1,0 +1,23 @@
+file f;
+void main()
+{
+string stuff=input_box("pass geter","enter the username that you wanna see his pass.");
+if(stuff=="")
+{
+alert("error", "you have to enter a name.");
+}
+else
+{
+clipboard_copy_text(get_player_password(stuff));
+alert("success", "the password has been decrypted and is copied to the clipboard it is "+get_player_password(stuff));
+}
+exit();
+}
+string get_player_password(string playername)
+{
+f.open("chars/"+playername+"/password.usr", "rb");
+string ret=f.read();
+ret=string_decrypt(ret,"tk3dcharpass_encrypted");
+f.close();
+return ret;
+}

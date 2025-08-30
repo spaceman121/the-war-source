@@ -1,0 +1,7 @@
+mapname:map
+maxx:200
+maxy:200
+maxz:100
+tile:0:200:0:200:0:0:carpet
+fightingstate:0
+tile:0:0:0:200:0:20:wallchest

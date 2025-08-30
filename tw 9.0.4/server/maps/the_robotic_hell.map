@@ -1,0 +1,11 @@
+mapname:the_robotic_hell
+maxx:300
+maxy:300
+maxz:300
+zone:0:300:0:300:0:300:The Robotic Hell
+src:0:300:0:300:0:300:amb11.ogg
+tile:0:300:0:300:0:0:cave
+zone:0:0:0:0:0:10:pres t to go bak:trackme
+tile:0:0:0:0:0:0:concrete
+travelpoint:0:0:0:0:0:0:main:0:0:0:moovd
+tile:0:500:0:500:0:5:suicide

@@ -1,0 +1,19 @@
+mapname:the_romen
+maxx:500
+maxy:500
+maxz:50
+noitems:0:600:0:600:0:600:concussive_grenade:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+tile:0:500:0:500:0:0:grass2
+src:0:500:0:500:0:500:emb1.ogg
+travelpoint:0:0:0:0:0:0:time_world:500:0:0:done
+
+zone:0:500:0:500:0:500:the_romen
+zone:0:0:0:0:0:0:go back:trackme
+noitems:0:5555:0:5555:0:5555:elecboat
+noitems:0:555:0:555:0:555:aircraft
+noitems:0:555:0:555:0:555:tank
+noitems:0:500:0:500:0:50:Truck
+noitems:0:555:0:555:0:555:elecboat
+noitems:0:555:0:555:0:555:armored_tank
+noitems:0:5555:0:5555:0:55555:dogan_slx
+robots:0:500:0:500:0:0:8:1000:romenperson,romensoldure

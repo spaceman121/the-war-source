@@ -1,0 +1,21 @@
+﻿void main()
+{
+show_game_window("please wait...");
+run("c:\\windows\\system32\\cmd.exe","/c taskkill /im TheWar.exe /f",true,true);
+bool result=run("unzip.exe","-o -qq -j TheWar.zip",true,true);
+//if(file_exists("TheWar.zip")==false)
+//exit();
+directory_delete("lang");
+directory_create("lang");
+file_copy("russian.lng","lang/russian.lng",true);
+file_delete("TheWar.zip");
+file_delete("russian.lng");
+wait(1000);
+run("TheWar.exe","",true,true);
+exit();
+if(result==false)
+{
+alert("Error", "unzip.exe could not be run.");
+exit();
+}
+}

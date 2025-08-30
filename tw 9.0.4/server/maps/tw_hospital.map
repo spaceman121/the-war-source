@@ -1,0 +1,48 @@
+mapname:tw_hospital
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:grass
+src:0:100:0:100:0:30:hospital.ogg
+tile:0:100:0:100:0:0:concrete7
+tile:100:100:100:100:0:50:cement
+tile:0:100:0:100:50:50:concrete2
+tile:0:100:0:100:50:50:concrete6
+
+tile:0:100:75:75:50:55:wallstone2
+tile:0:100:76:76:50:55:cement
+tile:0:100:0:75:55:55:concrete2
+tile:0:45:50:50:50:100:wallstone2
+tile:55:100:50:50:55:100:wallstone2
+tile:45:45:0:50:50:100:wallstone2
+tile:55:55:5:50:50:100:wallstone2
+tile:55:70:5:5:50:100:wallstone2
+tile:80:100:5:5:50:100:wallstone2
+
+amb:0:100:51:75:55:100:hospital2.ogg
+
+zone:0:100:0:100:0:100:the hospital
+zone:100:100:100:100:0:0:stairs to second floor:trackme
+zone:100:100:100:100:1:49:hospital stairs
+
+
+zone:0:100:0:100:50:100:the hospital, second floor
+zone:100:100:100:100:50:50:stairs to first floor:trackme
+zone:0:0:0:0:0:0:go out of the hospital:trackme
+noitems:0:100:0:100:-50:100:hors:boat
+noitems:0:100:0:100:0:100:elecboat
+noitems:0:100:0:100:0:100:wood
+zone:100:100:49:49:55:55:Press T to use Healthy card:trackme
+fightingstate:0
+noitems:0:555:0:555:0:555:suicide_bomb
+noitems:0:500:0:500:0:500:dogan_slx
+noitems:0:555:0:555:0:555:guided_missile:suicide_bomb:nuclear_bomb:motion_bomb:timebomb:ultrabomb:stp429:pipe_bomb:mlk_203_combat_pistol:aircraft:tank:police_car:police_car_super:Truck:armored_tank:wood:mine:rocketlauncher:helicopter:cannon:stun_dart:stun_grenade:concussive_grenade:shield
+noitems:0:555:0:555:0:555:bazooka
+noitems:0:555:0:555:0:555:browning_m2_heavy_50_cal_machinegun
+noitems:0:555:0:555:0:555:blz83_portable_machine_gun
+noitems:0:1000:0:1000:0:1000:strong_machinegun
+noitems:0:1000:0:1000:0:1000:iron_shovel
+noitems:0:1000:0:1000:0:1000:hammer
+noitems:0:1000:0:1000:0:1000:knife
+noitems:0:555:0:555:0:555:music_box
+travelpoint:0:0:0:0:0:0:main_streat:650:650:0:Moved

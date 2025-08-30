@@ -1,0 +1,7 @@
+mapname:test
+maxx:300
+maxy:300
+maxz:300
+tile:0:300:0:300:0:0:concrete12
+zone:0:300:0:300:0:300:test
+robots:0:300:0:300:0:0:5:1000:flo

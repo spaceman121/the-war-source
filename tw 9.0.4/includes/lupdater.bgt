@@ -1,0 +1,41 @@
+void lcfu(bool silent)
+{
+string llatest=url_get("http://www.mahdiproductions.net/SADEV/lversion.txt");
+double llv=string_to_number(latest);
+string ldescription=url_get("http://www.mahdiproductions.net/SADEV/ldescription.txt");
+string[] yourversion=string_split(lver," ",true);
+double lyv=string_to_number(yourversion[0]);
+if (lyv>llv and silent==false)
+{
+dlg("Sorry! There was an error checking for language pack updates!. Version: "+lver+". Latest: "+llatest);
+}
+else if (lyv==llv and silent==false)
+{
+dlg("No updates were found at this time!. "+llv+" Is the newest version!");
+}
+else if (lyv<llv)
+{
+updatefound.play_wait();
+int updateask=question("Update available!","a new language pack is available! latest version is: "+llatest+". Description of the readme update: "+ldescription+". Would you like to download the readme update now?");
+if(updateask==1)
+{
+lupdate();
+}
+else 
+{
+mainmenu();
+}
+}
+}
+void lupdate()
+{
+speak("Starting Update process.");
+updatemus.play_looped();
+string lstatus=dl_file("http://www.mahdiproductions.net/SAfiles/lang.zip","lang.zip",false);
+if(lstatus=="finished")
+{
+updatemus.stop();
+updatedone.play_wait();
+exit();
+}
+}

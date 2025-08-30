@@ -1,0 +1,16 @@
+name witch
+health 19000000
+defence 2000
+speed 350
+damage 2500000
+shoot 1000
+distance 8
+aggro 1000
+spread 6
+angle 360
+steps 0
+loot shield
+amount 10
+voices 2
+minxp 120000
+maxxp 600000

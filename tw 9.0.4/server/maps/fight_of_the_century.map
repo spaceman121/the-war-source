@@ -1,0 +1,26 @@
+mapname:fight_of_the_century
+maxx:250
+maxy:250
+maxz:250
+tile:0:250:0:250:0:0:cave
+zone:0:250:0:250:0:250:fight of the century
+zone:250:250:250:250:0:0:press T to go to the icepath:trackme
+zone:0:0:0:0:0:0:go back:trackme
+robots:0:250:0:250:0:0:5:1000:martial_artist,swordsman
+noitems:0:250:0:250:0:250:wirebomb:motion_bomb:nuclear_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:empty_apple_juice:nuclear_bomb:fight_inviter:nuclear_bomb:ford:mine:guided_missile:missile_interceptor
+noitems:0:250:0:250:0:250:elecboat
+noitems:0:250:0:250:0:250:police_motorcycle
+noitems:0:250:0:250:0:250:hors:boat
+src:0:250:0:250:25:30:fighting.ogg
+noitems:0:250:0:250:0:250:bazooka
+noitems:0:250:0:250:0:250:cannon
+noitems:0:250:0:250:0:250:rpg7
+noitems:0:250:0:250:0:250:rocketlauncher
+noitems:0:250:0:250:0:250:admingun
+travelpoint:0:0:0:0:0:0:main_streat:100:100:0:welcome back
+noitems:0:250:0:250:0:250:frequency_scrambler
+noitems:0:250:0:250:0:250:frequency_scrambler
+noitems:0:250:0:250:0:250:stp429
+noitems:0:250:0:250:0:250:armored_tank
+noitems:0:250:0:250:0:250:dogan_slx
+noitems:0:250:0:250:0:250:police_car_super

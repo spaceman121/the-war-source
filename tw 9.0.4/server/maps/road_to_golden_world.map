@@ -1,0 +1,102 @@
+mapname:road_to_golden_world
+maxx:100
+maxy:100
+maxz:3000
+fightingstate:0
+noitems:0:100:0:100:0:3000:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+tile:0:0:0:0:2000:2000:cement
+tile:0:100:0:99:0:0:fi
+tile:0:0:5:5:2000:2000:cement
+tile:3:3:8:8:2000:2000:concrete
+zone:0:100:0:100:0:3000:road to golden world
+tile:5:5:10:10:2000:2000:concrete2
+tile:10:10:10:10:2000:2000:concrete3
+tile:12:12:15:15:2000:2000:concrete4
+tile:12:12:20:20:2000:2000:concrete5
+tile:20:20:20:20:2000:2000:concrete6
+tile:20:20:20:20:1500:1500:concrete7
+tile:0:100:0:100:1510:1995:fi
+zone:20:20:20:20:2000:2020:press t to go down.
+travelpoint:20:20:20:20:2000:2000:road_to_golden_world:20:20:1500:knice.
+tile:0:100:0:100:1010:1495:fi
+tile:24:24:23:23:1500:1500:concrete7
+tile:30:30:23:23:1500:1500:concrete8
+tile:30:30:23:30:1500:1500:concrete9
+tile:30:30:29:29:1500:1500:fi
+tile:35:35:33:33:1500:1500:concrete10
+tile:38:38:33:33:1500:1500:concrete10
+tile:40:40:40:40:1500:1500:concrete11
+tile:38:38:40:40:1500:1500:concrete10
+tile:39:39:40:40:1500:1500:fi
+zone:40:40:40:40:1500:1520:great! press t again, and go down.
+tile:40:40:40:40:1000:1000:concrete11
+travelpoint:40:40:40:40:1500:1500:road_to_golden_world:40:40:1000:very knice!
+tile:0:100:0:100:510:995:fi
+tile:45:45:40:40:1000:1000:carpet
+tile:48:48:43:43:1000:1000:concrete12
+tile:48:48:48:48:1000:1000:bleacher
+tile:58:58:48:48:1000:1000:concrete13
+tile:60:60:48:48:1000:1000:concrete6
+tile:60:60:54:54:1000:1000:marble
+tile:60:60:60:60:1000:1000:dirt2
+zone:60:60:60:60:1000:1010:press t again, and go down.
+tile:60:60:60:60:500:500:concrete11
+travelpoint:60:60:60:60:1000:1000:road_to_golden_world:60:60:500:keep going.
+tile:65:65:63:63:500:500:bridge
+tile:0:100:0:100:258:498:fi
+tile:70:70:65:65:500:500:broken_glass
+tile:73:73:70:70:500:500:bare
+tile:80:80:73:73:500:500:generic
+tile:76:76:73:73:500:500:concrete3
+tile:80:80:80:80:500:500:concrete13
+zone:80:80:80:80:500:510:great. now, the 2nd last step. press t again, and go down.
+tile:80:80:80:80:250:250:carpet3
+travelpoint:80:80:80:80:500:500:road_to_golden_world:80:80:250:now be very careful.
+tile:85:85:83:83:240:240:concrete3
+tile:90:90:83:83:225:225:concrete7
+tile:93:93:86:86:200:200:concrete13
+tile:95:95:90:90:200:200:concrete7
+tile:97:97:94:94:200:200:concrete5
+tile:99:99:97:97:200:200:debris
+tile:99:99:98:100:200:200:fi
+tile:100:100:100:100:200:200:cement
+tile:0:100:0:100:5:198:fi
+zone:100:100:100:100:200:220:wao. congratulations! now press t again.
+travelpoint:100:100:100:100:200:200:road_to_golden_world:100:100:0:congratulations!
+tile:100:100:100:100:0:0:carpet3
+tile:0:100:0:100:-20:0:fi
+tile:100:100:100:100:0:0:carpet3
+zone:100:100:100:100:0:0:press t to end, and sea your surprise!
+noitems:0:100:0:100:0:3000:suicide_bomb
+noitems:0:100:0:100:0:3000:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:nuclear_bomb
+noitems:0:100:0:100:0:3000:elecboat
+noitems:0:100:0:100:0:3000:police_motorcycle
+noitems:0:100:0:100:0:3000:hors:boat
+noitems:0:100:0:100:0:3000:tasing_small_projectile
+noitems:0:100:0:100:0:3000:small_projectile
+tile:80:80:80:80:5:245:fi
+tile:0:80:0:80:5:245:fi
+tile:0:85:0:83:5:235:fi
+tile:0:90:0:83:5:220:fi
+travelpoint:100:100:100:100:0:0:golden_world:0:0:0:after your hard work, you are here. congratulations! enjoy!
+src:0:100:0:100:-25:3000:fi.ogg
+amb:0:100:0:100:0:3000:generic.ogg
+tile:90:90:83:83:226:235:concrete5
+tile:93:93:86:86:201:210:stairs
+tile:90:90:83:83:221:224:fi
+tile:93:93:86:86:211:215:concrete5
+tile:93:93:86:86:199:199:fi
+tile:100:100:97:97:200:200:fi
+tile:100:100:97:99:200:200:fi
+tile:30:30:28:28:1500:1500:fi
+noitems:0:100:0:100:0:3000:sat_bomb
+noitems:0:100:0:100:0:3000:sat_bomb_remote
+noitems:0:100:0:100:0:3000:stp429
+noitems:0:100:0:100:0:3000:aircraft
+noitems:0:100:0:100:0:3000:tank
+noitems:0:100:0:100:0:3000:armored_tank
+tile:30:30:28:29:1500:1500:concrete9
+tile:100:100:97:99:200:200:air
+tile:99:99:98:100:200:200:air
+travelpoint:0:0:0:0:2000:2000:main_streat:1000:950:0:welcome back
+noitems:0:1000:0:1000:-1000:1000000:dogan_slx

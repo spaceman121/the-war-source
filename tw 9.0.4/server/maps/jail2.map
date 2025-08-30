@@ -1,0 +1,17 @@
+mapname:jail2
+maxx:200
+maxy:200
+maxz:50
+tile:0:200:0:200:0:0:carpet
+zone:0:200:0:200:0:50:VIP Jail
+tile:0:0:0:0:70:70:concrete2
+tile:0:200:0:200:40:40:carpet
+tile:0:200:0:200:13:13:carpet
+travelpoint:200:200:200:200:0:0:main:0:0:0:Welcome
+zone:200:200:200:200:0:10:Go back to safe zone:trackme
+door:40:0:0:200:200:0:400:door.ogg:door7moving.ogg:door7open.ogg:door1close.ogg
+noitems:0:200:0:200:0:40:nuclear_bomb 
+noitems:0:200:0:200:0:40:nuclear_bomb
+noitems:0:200:0:200:0:200:guided_missile
+tile:0:200:0:200:1000000000:1000000000:bare
+

@@ -1,0 +1,9 @@
+void main()
+{
+string reason=input_box("TheWar info updater","Enter reason of server being down");
+if(reason=="")
+exit();
+string success=url_post("www.md-games.tk/tw/reason.txt","what="+reason);
+alert(success,"");
+exit();
+}

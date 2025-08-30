@@ -1,0 +1,33 @@
+mapname:strip_club
+maxx:150
+maxy:150
+maxz:500
+tile:0:150:0:150:0:0:wood2
+zone:0:150:0:150:0:500:the strip club
+travelpoint:0:0:0:0:0:0:main:0:0:0:moved
+zone:0:0:0:0:0:10:to exit, press t:trackme
+src:0:150:0:150:7:100:party_music.ogg
+tile:20:25:20:30:0:2:walltable
+tile:20:25:20:30:2:2:wood
+zone:20:25:20:30:0:100:table
+tile:19:19:20:30:1:1:bleacher
+zone:19:19:20:30:1:11:bench:trackme
+tile:26:26:20:30:1:1:bleacher
+zone:26:26:20:30:1:11:bench:trackme
+
+tile:0:150:0:150:200:200:grass3
+src:0:150:0:150:200:210:birds7.ogg
+zone:0:150:0:150:200:210:area for workers only.:trackme
+fightingstate:0
+
+tile:30:40:30:40:200:203:wallbank
+tile:30:30:30:40:203:205:wallbank
+tile:40:40:30:40:203:205:wallbank
+tile:30:40:30:30:203:205:wallbank
+tile:30:40:40:40:203:206:wallbank
+
+tile:31:39:31:39:203:203:swimming
+zone:31:39:31:39:203:213:private pool:trackme
+tile:30:30:30:40:207:206:ledge2
+src:31:39:31:39:203:213:water2.ogg
+

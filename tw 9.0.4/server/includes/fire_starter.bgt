@@ -1,0 +1,72 @@
+fire_starter@[] starters;
+class fire_starter
+{
+int x,y,z;
+string map,mid;
+timer lifetimer,affecttimer;
+bool dead=false;
+fire_starter(int x, int y, int z, string map)
+{
+this.x=x;this.y=y;this.z=z;this.map=map;
+play("fire_starterstart",x,y,z,map);
+fireon=true;
+this.mid=spawn_moving_sound("fire_starterloop.ogg",x,y,z,map);
+this.affect();
+}
+void affect()
+{
+for(uint i=0; i<players.length; i++)
+{
+if(get_3d_distance(x,y,z,players[i].x,players[i].y,players[i].z)<=5&&players[i].map==map)
+{
+players[i].health+=(0);
+}
+}
+}
+void shoot()
+{
+this.dead=true;
+destroy_moving_sound(this.mid);
+play("fire_startershot",x,y,z,map);
+}
+void loop()
+{
+if(this.dead) return;
+if(lifetimer.elapsed>=100000)
+{
+fireon=false;
+this.dead=true;
+destroy_moving_sound(this.mid);
+play("fire_starterstop",x,y,z,map);
+}
+if(affecttimer.elapsed>=400)
+{
+affecttimer.restart();
+affect();
+}
+}
+}
+void starterloop()
+{
+for(uint i=0; i<starters.length; i++)
+{
+if(starters[i].dead)
+{
+@starters[i]=null;
+starters.remove_at(i);
+continue;
+}
+starters[i].loop();
+}
+}
+void spawn_starter(int x, int y, int z, string map)
+{
+fire_starter h1(x,y,z,map);
+starters.insert_last(h1);
+}
+bool starter_exist_on(int x, int y, int z, string map)
+{
+for(uint i=0; i<starters.length(); i++)
+if(starters[i].x==x and starters[i].y==y and starters[i].z==z and starters[i].map==map) return true;
+return false;
+}

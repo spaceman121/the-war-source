@@ -1,0 +1,15 @@
+mapname:magic_world
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete25
+zone:0:100:0:100:0:100:Magic World
+ispawn:0:100:0:100:0:0:1000:3:suicide_bomb:nuclear_bomb:health_box:
+fightingstate:1
+robots:0:100:0:100:0:0:2:1000:dragon
+noitems:0:100:0:100:0:100:cannon:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:missile_interseptor:stun_dart:fight_inviter
+src:0:100:0:100:0:100:windchimes.ogg
+travelpoint:15:15:0:0:0:0:main_streat:500:450:0:moved!
+zone:15:15:0:0:0:0:press t to  go back in main streat:trackme
+
+noitems:0:5555:0:5555:0:5555:elecboat

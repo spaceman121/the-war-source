@@ -1,0 +1,17 @@
+name martial_artist
+health 12000000
+defence 1500
+speed 400
+damage 1000000,1500000
+shoot 1000
+distance 7
+aggro 1000
+spread 6
+angle 360
+steps 0
+loot ice_pass
+amount 1
+voices 3
+hits 8
+minxp 34000
+maxxp 200000

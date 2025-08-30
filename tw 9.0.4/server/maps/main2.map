@@ -1,0 +1,34 @@
+mapname:main2
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:carpet
+zone:0:50:0:50:0:50:Store
+fightingstate:0
+noitems:0:100:0:100:0:100:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter:stp429
+tile:0:0:25:25:0:0:metalpipe
+tile:25:25:0:0:0:0:metalpipe
+tile:0:0:0:0:0:0:concrete5
+tile:50:50:25:25:0:0:metalpipe
+tile:25:25:50:50:0:0:metalpipe
+tile:0:0:50:50:0:0:metalpipe
+tile:50:50:50:50:0:0:metalpipe
+zone:25:25:0:0:0:0:VehicleStore:trackme
+zone:50:50:25:25:0:0:WeaponStore:trackme
+zone:25:25:50:50:0:0:AmmoStore:trackme
+zone:0:0:50:50:0:0:ExplosiveStore:trackme
+zone:0:0:25:25:0:0:MiscStore:trackme
+zone:50:50:50:50:0:0:HealthyStore:trackme
+zone:0:0:0:0:0:0:go back:trackme
+noitems:0:50:0:50:0:500:wirebomb:motion_bomb:nuclear_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:empty_apple_juice:nuclear_bomb:fight_inviter:nuclear_bomb:guided_missile:missile_interceptor:mine
+amb:0:50:0:50:0:50:store.ogg
+src:25:25:25:25:10:50:english.ogg
+travelpoint:0:0:0:0:0:0:main:0:25:0:welcome
+noitems:0:50:0:50:0:50:Truck
+noitems:0:50:0:50:0:50:dogan_slx
+noitems:0:50:0:50:0:50:armored_tank
+noitems:0:50:0:50:0:50:tank
+noitems:0:50:0:50:0:50:aircraft
+noitems:0:50:0:50:0:50000:ml_Automatic_machinegun
+tile:25:25:25:25:0:5:carpet2
+zone:25:25:25:25:0:5:the musical chare:trackme

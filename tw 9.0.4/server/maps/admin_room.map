@@ -1,0 +1,113 @@
+mapname:admin_room
+maxx:50
+maxy:50
+maxz:50
+tile:0:50:0:50:0:0:wood3
+zone:0:50:0:50:0:50:AdminRoom
+tile:48:50:41:50:0:2:wallsofa
+tile:48:50:41:50:3:3:carpet3
+travelpoint:15:0:0:0:0:0:main:0:0:0:you have been moved out this admin room
+tile:15:0:0:0:0:0:bathtub
+tile:46:50:0:5:10:10:glass
+tile:30:30:50:50:0:2:stairs
+tile:30:3:50:50:3:3:carpet3
+tile:50:50:50:50:50:50:concrete6
+tile:50:50:50:50:50:-50:pavement
+tile:52:52:52:55:50:50:ladder
+noitems:0:100:0:100:0:100:arrak
+
+tile:1:1:1:1:1:1:wallsofa
+tile:1:2:3:4:2:1:wallwood
+tile:1:1:1:1:1:1:concrete
+amb:1:1:1:1:1:1:b1.ogg
+travelpoint:0:0:0:0:0:0:main:0:0:0:you have been moved to safe zone
+zone:0:0:0:0:0:0:go back:trackme
+tile:10:10:10:10:10:10:concrete12
+tile:10:20:10:20:5:5:branch
+tile:40:40:25:25:0:3:carpet3
+zone:40:40:25:25:0:3:MalikAli's Chare:trackme
+tile:30:30:25:25:0:5:carpet3
+zone:30:30:25:25:0:11:SK's Chare:trackme
+src:0:0:50:50:25:50:english.ogg
+zone:0:0:50:50:5:50:Speaker
+zone:0:0:50:50:0:5:Speaker Table
+tile:0:5:45:47:0:4:carpet3
+zone:0:5:44:47:0:4:Sofa:trackme
+tile:0:5:44:44:0:8:wallbuilding4
+
+tile:20:30:0:10:4:4:wood4
+zone:20:30:0:10:4:4:Computer Table:trackme
+zone:24:24:2:2:4:4:Computer
+src:24:24:2:2:1:1:computer.ogg
+zone:23:23:4:6:4:4:Keyboard
+zone:24:24:3:7:4:4:Moniter
+amb:23:23:4:6:4:4:computer_keabord.ogg
+tile:19:19:5:5:0:5:carpet
+zone:19:19:5:5:0:5:Computer Chare
+zone:23:23:3:3:4:4:Mouse
+zone:50:50:5:5:3:10:Heater!:trackme
+src:50:50:5:5:5:10:desktop.ogg
+noitems:0:50:0:50:0:50:nuclear_bomb
+zone:25:25:50:50:0:5:guardian's chair:trackme
+tile:0:0:10:10:0:0:carpet
+zone:48:50:41:50:0:10:Malik Ali's Bed
+
+
+
+
+tile:30:30:50:50:0:2:carpet2
+tile:30:30:50:50:3:3:carpet3
+tile:49:49:25:25:0:6:carpet3
+tile:47:48:25:25:6:6:carpet3
+tile:50:50:25:30:6:12:wallmetal19
+tile:46:46:25:30:6:12:wallmetal19
+tile:46:50:24:24:6:12:wallsofa
+zone:49:49:25:25:0:15:mureed's chair:trackme
+zone:47:48:25:25:6:15:mureed's chair
+door:50:0:0:49:25:7:50:doors.ogg:door5moving.ogg:door14open.ogg:door7close.ogg
+zone:50:50:0:0:0:10:a magical shortcut. press d.
+
+
+tile:25:25:25:25:0:7:carpet2
+zone:25:25:25:25:0:7:snowstar's chair:trackme
+vending_machine:2:40:0
+tile:5:5:7:7:0:1:chair
+
+zone:5:5:7:7:0:12:Jimmy's chair:trackme
+tile:111:111:111:111:0:5:fi
+door:49:0:0:25:25:7:1000:doors.ogg:door7moving.ogg:door2open.ogg:door2close.ogg
+zone:49:49:0:0:0:5:press d
+url:https://www.youtube.com/watch?v=SAcpESN_Fk4
+
+tile:25:25:50:50:0:5:carpet
+src:0:50:0:50:25:50:urdusong222.ogg
+
+zone:40:40:40:40:0:4:RajaHamid's chair:trackme
+tile:40:40:40:40:0:4:carpet3
+door:10:10:0:40:40:4:50:doors.ogg:door2moving.ogg:door1open.ogg:door1close.ogg
+tile:30:30:50:50:0:8:carpet2
+zone:30:30:50:50:0:8:KillerCross chair:trackme
+door:5:5:0:30:50:8:700:doors.ogg:door7moving.ogg:door1open.ogg:door1close.ogg
+tile:30:30:50:50:5:8:carpet3
+zone:5:5:5:5:0:0:press d to travel to KillerCross chair
+amb:40:40:40:40:4:4:pub.ogg
+
+tile:15:20:50:50:3:3:carpet3
+tile:15:20:49:49:0:3:wallcloth
+tile:14:14:50:50:0:3:wallcloth
+tile:21:21:50:50:0:3:wallcloth
+zone:15:20:50:50:0:3:killer's small bed:trackme
+src:14:20:50:50:-50:-20:menumus1.ogg
+tile:15:16:40:42:2:2:carpet3
+tile:15:16:39:39:0:3:wallcloth
+tile:17:17:40:42:0:3:wallcloth
+tile:14:14:40:42:0:3:wallcloth
+
+
+zone:15:16:40:42:0:3:killer's chair:trackme
+
+door:40:0:0:50:50:3:50:door.ogg:door7moving.ogg:door7open.ogg:door1close.ogg
+tile:0:1:40:41:0:3:carpet
+zone:0:1:40:41:0:3:ss's chair:trackme
+noitems:0:50:0:50:0:50:guided_missile
+tile:0:0:0:0:0:0:suicide

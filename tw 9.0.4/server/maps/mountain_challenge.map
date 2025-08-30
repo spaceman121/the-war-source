@@ -1,0 +1,24 @@
+mapname:mountain_challenge
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:rocks
+tile:0:500:21:21:0:9:wallstone
+tile:0:500:20:20:0:10:rocks
+
+tile:0:500:21:25:10:10:concrete
+tile:0:500:35:40:10:10:concrete
+tile:0:500:41:41:0:19:wallstone
+tile:0:500:40:40:10:20:concrete
+zone:0:500:0:500:0:500:death mountain
+tile:0:500:55:55:20:20:concrete
+tile:0:500:42:500:0:2:fi
+tile:0:500:65:65:20:20:concrete
+tile:0:500:70:100:20:20:bridge
+tile:0:500:105:108:20:20:bridge
+tile:0:500:116:116:20:20:bridge
+tile:0:500:120:120:20:20:bridge
+tile:0:500:124:124:24:24:bridge
+tile:0:500:124:124:24:30:ladder
+tile:0:500:124:130:30:30:ladder
+tile:0:500:140:150:30:30:bridge

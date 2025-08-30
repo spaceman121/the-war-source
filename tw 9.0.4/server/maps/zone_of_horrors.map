@@ -1,0 +1,18 @@
+mapname:zone_of_horrors
+maxx:300
+maxy:300
+maxz:300
+tile:0:300:0:300:0:0:concrete14
+zone:0:300:0:300:0:300:Zone of Horrors
+robots:0:300:0:300:0:0:4:1000:zombie,monster,mortal,dog
+zone:0:0:0:0:0:0:GoBack:trackme
+noitems:0:300:0:300:0:300:elecboat:helicopter:hors:boat:police_motorcycle:police_car_super
+travelpoint:0:0:0:0:0:0:main_streat:500:950:0:welcome
+src:0:300:0:300:20:100:Desert Ambience Night 1.ogg
+noitems:0:500:0:500:0:500:bazooka
+noitems:0:500:0:500:0:500:ml_Automatic_machinegun
+noitems:0:500:0:500:0:500:timebomb
+noitems:0:500:0:500:0:500:aircraft
+noitems:0:500:0:500:0:500:pipe_bomb
+noitems:0:500:0:500:0:500:stun_dart
+noitems:0:300:0:300:0:300:guided_missile

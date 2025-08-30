@@ -1,0 +1,41 @@
+void dcfu(bool silent)
+{
+string dlatest=url_get("http://www.blindgamers.net/SADEV/dversion.txt");
+double dlv=string_to_number(latest);
+string ddescription=url_get("http://www.blindgamers.net/SADEV/ddescription.txt");
+string[] yourversion=string_split(dver," ",true);
+double dyv=string_to_number(yourversion[0]);
+if (dyv>dlv and silent==false)
+{
+dlg("Sorry! There was an error checking for documentation updates!.. Version: "+dver+". Latest: "+dlatest);
+}
+else if (dyv==dlv and silent==false)
+{
+dlg("No updates were found at this time!. "+dlv+" Is the newest version!");
+}
+else if (dyv<dlv)
+{
+updatefound.play_wait();
+int updateask=question("Update available!","a new documentation is available! latest version is: "+dlatest+". Description of the documentation update: "+ddescription+". Would you like to download the documentation update now?");
+if(updateask==1)
+{
+dupdate();
+}
+else 
+{
+mainmenu();
+}
+}
+}
+void dupdate()
+{
+speak("Starting Update process.");
+updatemus.play_looped();
+string dstatus=dl_file("http://www.mahdiproductions.net/SAfiles/documentations.rar","documentations.rar",false);
+if(dstatus=="finished")
+{
+updatemus.stop();
+updatedone.play_wait();
+exit();
+}
+}

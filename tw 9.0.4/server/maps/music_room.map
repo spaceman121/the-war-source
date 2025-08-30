@@ -1,0 +1,18 @@
+mapname:music_room
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:carpet
+zone:0:500:0:500:0:500:Music Room!
+zone:0:0:0:0:0:10:Go back:trackme
+travelpoint:0:0:0:0:0:0:main_streat:0:0:0:Moved
+tile:0:100:50:50:0:100:wallstone
+
+tile:100:100:51:150:0:100:wallstone
+tile:0:100:150:150:0:100:wallstone
+zone:0:100:50:150:0:100:English Songs!
+travelpoint:25:25:49:49:0:0:music_room:25:51:0:Welcome
+zone:25:25:49:49:0:0:Lisson to english songs!:trackme
+travelpoint:25:25:51:51:0:0:music_room:25:49:0:Welcome back!
+zone:25:25:51:51:0:0:Go back to music room:trackme
+src:5:85:70:130:10:50:english.ogg

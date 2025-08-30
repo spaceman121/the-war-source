@@ -1,0 +1,32 @@
+mapname:the_breathing_room
+maxx:50
+maxy:50
+maxz:50
+fightingstate:0
+noitems:0:50:0:50:0:50:wirebomb:motion_bomb:nuclear_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:empty_apple_juice:nuclear_bomb:fight_inviter:nuclear_bomb:ford:mine:guided_missile:missile_interceptor
+noitems:0:250:0:250:0:250:elecboat
+noitems:0:250:0:250:0:250:police_motorcycle
+noitems:0:250:0:250:0:250:hors:boat
+noitems:0:50:0:50:0:50:frequency_scrambler
+noitems:0:50:0:50:0:50:stp429
+noitems:0:555:0:555:0:555:cannon
+noitems:0:50:0:50:0:50:rpg7
+noitems:0:50:0:50:0:50:bazooka
+noitems:0:50:0:50:0:50:rocketlauncher
+
+
+noitems:0:1000:0:1000:0:1000:wirebomb:motion_bomb:nuclear_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:empty_apple_juice:nuclear_bomb:fight_inviter:nuclear_bomb:ford:mine:guided_missile:missile_interceptor
+noitems:0:250:0:250:0:250:elecboat
+noitems:0:1000:0:1000:0:1000:police_motorcycle
+noitems:0:1000:0:1000:0:1000:hors:boat
+noitems:0:1000:0:1000:0:1000:frequency_scrambler
+noitems:0:1000:0:1000:0:1000:stp429
+noitems:0:1000:0:1000:0:1000:cannon
+noitems:0:50:0:50:0:50:rpg7
+noitems:0:1000:0:1000:0:1000:bazooka
+noitems:0:1000:0:1000:0:1000:rocketlauncher
+
+tile:0:50:0:50:0:0:carpet
+zone:0:50:0:50:0:50:the breathing room
+zone:50:50:50:50:0:0:press t to go to the lair of the dead:trackme
+noitems:0:555:0:555:0:555:ml_Automatic_machinegun

@@ -1,0 +1,58 @@
+mapname:the_bank
+maxx:200
+maxy:200
+maxz:200
+tile:0:200:0:200:0:0:concrete6
+zone:0:200:0:200:0:200:the bank
+src:0:200:0:200:0:200:air.ogg
+src:0:200:0:200:0:200:office.ogg
+zone:150:150:200:200:0:110:stairs:trackme
+tile:0:200:0:200:50:50:concrete7
+zone:150:150:200:200:50:50:first floor:trackme
+tile:0:200:0:200:100:100:concrete6
+zone:0:200:0:200:50:55:first floor
+zone:0:200:0:200:100:115:second floor
+zone:150:150:200:200:100:100:second floor:trackme
+zone:100:100:100:100:100:110:gold machine:trackme
+tile:100:100:100:100:100:100:metalpipe
+zone:50:50:50:50:50:60:bitcoin machine:trackme
+tile:50:50:50:50:50:50:metalpipe
+zone:0:0:0:0:0:10:go back:trackme
+travelpoint:0:0:0:0:0:0:main_streat:1000:450:0:welcome back
+noitems:0:500:0:500:0:500:wood
+noitems:0:1000:0:1000:0:500:bazooka
+noitems:0:1000:0:1000:0:500:modern_sub_machine_gun_carbine
+tile:150:150:200:200:0:100:stairs
+noitems:0:500:0:500:0:500:fire_starter
+noitems:0:500:0:500:0:500:helicopter2
+noitems:0:500:0:500:0:500:invisibility_shield
+noitems:0:500:0:500:0:500:mp5
+noitems:0:500:0:500:0:500:m24_sniper_rifle
+noitems:0:500:0:500:0:500:mlk_203_combat_pistol
+noitems:0:500:0:500:0:500:ml_Automatic_machinegun
+noitems:0:500:0:500:0:500:m29_sniper_rifle
+noitems:0:500:0:500:0:500:browning_high_power_bda_handgun
+noitems:0:500:0:500:0:500:brass_knuckles
+noitems:0:500:0:500:0:500:browning_m2_heavy_50_cal_machinegun
+noitems:0:500:0:500:0:500:barrett_m82_sniper_rifle
+noitems:0:500:0:500:0:500:blz83_portable_machine_gun
+noitems:0:500:0:500:0:500:glock_17_pistolv
+noitems:0:500:0:500:0:500:glock_17_pistol
+noitems:0:500:0:500:0:500:nuclear_bomb:helicopter
+zone:125:125:200:200:0:6:first elevator's door:trackme
+tile:125:125:200:200:6:48:stairs
+door:125:200:0:125:200:50:75:doors.ogg:door5moving.ogg:door5open.ogg:door5close.ogg
+zone:125:125:200:200:7:49:elevator
+zone:125:125:200:200:50:56:second elevator's door:trackme
+door:125:200:50:125:200:0:75:doors.ogg:door5moving.ogg:door5open.ogg:door5close.ogg
+amb:125:125:200:200:7:49:elevator2.ogg
+zone:175:175:200:200:50:56:third elevator's door:trackme
+zone:175:175:200:200:57:99:elevator
+door:175:200:50:175:200:100:75:doors.ogg:door5moving.ogg:door5open.ogg:door5close.ogg
+tile:175:175:200:200:56:98:stairs
+amb:175:175:200:200:57:99:elevator2.ogg
+zone:175:175:200:200:100:110:fourth elevator's door:trackme
+door:175:200:100:175:200:50:75:doors.ogg:door5moving.ogg:door5open.ogg:door5close.ogg
+zone:150:150:200:200:100:110:staires
+robots:0:200:0:200:0:0:10:500:chest
+noitems:0:5555:0:5555:0:5555:elecboat

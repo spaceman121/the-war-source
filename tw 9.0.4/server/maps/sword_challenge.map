@@ -1,0 +1,8 @@
+mapname:sword_challenge
+maxx:500
+maxy:500
+maxz:2000
+tile:0:500:0:500:0:1000:fi
+zone:0:500:0:500:0:2500:Sword Challenge
+tile:0:0:0:0:2000:2000:bleacher
+fightingstate:0

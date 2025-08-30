@@ -1,0 +1,5 @@
+mapname:my_fire_chalange
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:carpet

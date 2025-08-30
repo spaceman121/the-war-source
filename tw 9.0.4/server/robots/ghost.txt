@@ -1,0 +1,16 @@
+name ghost
+health 18000000
+defence 1500
+speed 300
+damage 2000000
+shoot 1000
+distance 7
+aggro 1000
+spread 6
+angle 360
+steps 0
+loot health_healer
+amount 10,100
+voices 2
+minxp 300
+maxxp 5000

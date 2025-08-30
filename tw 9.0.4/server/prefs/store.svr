@@ -1,0 +1,164 @@
+mlk_203_combat_pistol=300000= weapon=weapon_store
+dragunovp_sniper=5000000= weapon=weapon_store
+revolver=10000= weapon=weapon_store
+stp429=5000000= a stp429 now range 200=weapon_store
+bazooka=30000000= weapon=weapon_store
+barrett_m82_sniper_rifle=20000000= weapon=weapon_store
+s&w_model66_revolver=100000= weapon=weapon_store
+beretta_m9_pistol=80000=weapon =weapon_store
+sky_286_laser_pistol=7000000=weapon =weapon_store
+sky_386_laser_assault_rifle=15000000=weapon =weapon_store
+sky_429_laser_shotgun=10000000=weapon =weapon_store
+beretta_nano_pocket_pistol=20000=weapon =weapon_store
+browning_high_power_bda_handgun=250000=weapon =weapon_store
+colt_ar_15_assault_rifle=50000=weapon =weapon_store
+colt_python_revolver=50000=weapon =weapon_store
+crt43_automatic_shotgun=250000=weapon =weapon_store
+m24_sniper_rifle=3200000=weapon =weapon_store
+m1208_shotgun=18000=weapon =weapon_store
+mlk_207_combat_rifle=53000=weapon =weapon_store
+ruger_security_6_revolver=34000=weapon =weapon_store
+saiga_12_5_round_shotgun=40000=weapon =weapon_store
+sig_p226_combat_pistol=45000=weapon =weapon_store
+sky_28_laser=67000=weapon =weapon_store
+sky_127_laser_handgun=50000=weapon =weapon_store
+stp_s84q_automatic_suppressed_pistol=5000000=weapon =weapon_store
+stp21_handgun=31000=weapon =weapon_store
+str_32_pump_action_shotgun=16000=weapon =weapon_store
+walther_p99_handgun=20000=weapon =weapon_store
+knife=10000= weapon=weapon_store
+kalashnikov_rifle=100000=a weapon=weapon_store
+dart_launcher=500000= weapon=weapon_store
+ak47=1000000= weapon=weapon_store
+stp=2000000= weapon=weapon_store
+taser=3000000= weapon=weapon_store
+rpg7=4000000= weapon=weapon_store
+sniper=5000000= weapon=weapon_store
+grenade_launcher=7500000= weapon=weapon_store
+Storm_Sniper=10000000= weapon=weapon_store
+the_legendary_sword=15000000= weapon=weapon_store
+rocketlauncher=20000000= weapon=weapon_store
+cannon=50000000= weapon=weapon_store
+guided_missile=2000000= weapon=weapon_store
+helicopter=50000= weapon=weapon_store
+hammer=25000=hammer=weapon_store
+golden_war_axe=15000=golden war axe=weapon_store
+missile_interceptor=500000=missile interceptor=weapon_store
+iron_shovel=100000=iron_shovel=weapon_store
+shotgun=8000000=A powerfull shotgun with grate range and damage=weapon_store
+ammo_revolver=300= ammo for revolver=ammo_store
+ammo_bazooka=2000000= ammo for bazooka=ammo_store
+ammo_beretta_m9_pistol=100=ammo for the beretta_m9_pistol=ammo_store
+ammo_beretta_nano_pocket_pistol=100=ammo for the beretta_nano_pocket_pistol=ammo_store
+ammo_browning_high_power_bda_handgun=200=ammo for the browning_high_power_bda_handgun=ammo_store
+ammo_colt_ar_15_assault_rifle=200=ammo for the colt_ar_15_assault_rifle=ammo_store
+ammo_colt_python_revolver=1000=ammo for the colt_python_revolver=ammo_store
+ammo_crt43_automatic_shotgun=300=ammo for the crt43_automatic_shotgun=ammo_store
+ammo_m24_sniper_rifle=30000=ammo for the m24_sniper_rifle=ammo_store
+ammo_m1208_shotgun=300=ammo for the m1208_shotgun=ammo_store
+ammo_mlk_207_combat_rifle=300=ammo for the mlk_207_combat_rifle=ammo_store
+ammo_ruger_security_6_revolver=300=ammo for the ruger_security_6_revolver=ammo_store
+ammo_saiga_12_5_round_shotgun=300=ammo for the saiga_12_5_round_shotgun=ammo_store
+ammo_sig_p226_combat_pistol=300=ammo for the sig_p226_combat_pistol=ammo_store
+ammo_sky_28_laser=300=ammo for the sky_28_laser=ammo_store
+ammo_sky_127_laser_handgun=300=ammo for the sky_127_laser_handgun=ammo_store
+ammo_stp_s84q_automatic_suppressed_pistol=300=ammo for the stp_s84q_automatic_suppressed_pistol=ammo_store
+ammo_stp21_handgun=300=ammo for the stp21_handgun=ammo_store
+ammo_str_32_pump_action_shotgun=300=ammo for the str_32_pump_action_shotgun=ammo_store
+ammo_walther_p99_handgun=300=ammo for the walther_p99_handgun=ammo_store
+ammo_s&w_model66_revolver=1=ammo for the s&w_model66_revolver=ammo_store
+ammo_mlk_203_combat_pistol=200=ammo for the mlk_203_combat_pistol=ammo_store
+ammo_dragunovp_sniper=50000=ammo for the dragunovp_sniper=ammo_store
+ammo_barrett_m82_sniper_rifle=500000=ammo for the barrett_m82_sniper_rifle=ammo_store
+ammo_stp106_long_barreled_pistol=100=ammo for the stp106_long_barreled_pistol=ammo_store
+ammo_kalashnikov_rifle=100=ammo for kalashnikov_rifle=ammo_store
+ammo_dart_launcher=250=ammo for dart launcher=ammo_store
+ammo_ak47=500=ammo for ak47=ammo_store
+ammo_stp=1000=ammo for stp=ammo_store
+ammo_taser=2500=ammo for taser=ammo_store
+ammo_rpg7=5000=ammo for rpg7=ammo_store
+ammo_sniper=10000=ammo for sniper=ammo_store
+ammo_grenade_launcher=25000=ammo for grenade launcher=ammo_store
+ammo_Storm_Sniper=50000=ammo for Storm Sniper=ammo_store
+ammo_rocketlauncher=100000=ammo for rocket launcher=ammo_store
+ammo_cannon=5000000=ammo for cannon=ammo_store
+ammo_shotgun=1000=ammo for shotgun=ammo_store
+shield=15000==misc_store
+invisibility_shield=20000=go to buy=misc_store
+carrier_missile=1000000=send items to unother player with this=misc_store
+wood=100=go to buy=misc_store
+stun_dart=500=it will stun a player=misc_store
+fire_extinguisher=1000=go to buy=misc_store
+fire_starter=500=fire starter=misc_store
+frequency_scrambler=500000=You can stun robots with this=misc_store
+shield_remover=30000=Remove's all shielded shots=misc_store
+health_healer=50000=heal your health eaziar and fast by this thing=healthy_store
+health_box=100000=heal your health eaziar and fast by this thing=healthy_store
+healthy_card=50000000=It will gives you 20000000 health!=healthy_store
+motion_bomb=200=A powerful bomb that detects motion=explosive_store
+timebomb=250=a bomb with a beeping timer on it.=explosive_store
+grenade=1500=grenade=explosive_store
+hand_grenade=2000=you can destroy shelter with this=explosive_store
+sound_grenade=2500=it will make noisy sound=explosive_store
+stun_grenade=5000=it will stun a player few seconds=explosive_store
+pipe_bomb=10000=little bomb=explosive_store
+concussive_grenade=500000=it throne you in the air=explosive_store
+bullet_bomb=300000=if you shoot this enough it will explode in your face=explosive_store
+barricade_bomb=300000=kind of like the motion bomb but more powerfull=explosive_store
+fuel_tank=500=A fuel tank =vehicle_store
+toolbox=10000=A very useful item needed for repairing vehicles=vehicle_store
+metal_pack=2500=a pack full of metal for vehicle repairs=vehicle_store
+tank=5000000=A Powerfull vehicle with weapon=vehicle_store
+armored_tank=15000000=A Armered tank=vehicle_store
+aircraft=10000000=A aircraft with gun atached=vehicle_store
+dogan_slx=2000000=Vehicle=vehicle_store
+police_car=2000000=Vehicle=vehicle_store
+police_car_super=5000000=A Police car=vehicle_store
+Truck=1000000=A truck, good for exploring maps=vehicle_store
+elecboat=20000000=A elecboat=vehicle_store
+berry=20=froot=food_store
+banana_bread=100=Tasty Food item!=food_store
+biscuit=100=biscuit=food_store
+popcorn=50=popcorn=food_store
+chips=20=tasty, crisspy, chips=food_store
+apple=100=froot=food_store
+candy=10=sweet sweet candy!=food_store
+kiwi=100=kiwi=food_store
+food=50=food=food_store
+chocolate_bar=100=fill with chocolate=food_store
+raisin=500=raisin=food_store
+protein_bar=250=protein_bar=food_store
+chocolate=100=sweet tasty chocolate=food_store
+raisin_pack=10000=A pack of 20 raisin=food_store
+nut=10=nut=food_store
+melon=200=melon to eat=food_store
+cracker=50=tasty crunch=food_store
+mint=20=mint=food_store
+pretzel=100=pretzel=food_store
+cola=100=Cola, you can drink it=beverages_store
+water_bottle=50=water bottle=beverages_store
+beer_bottle=500=You can wonder in whole world after drinking this!=beverages_store
+apple_juce=150=jucy jucy apple juce=beverages_store
+juse_box=200=healthy juce with tasty flavours=beverages_store
+milk=200=Natural Milk=beverages_store
+health_drink=5000=A drink can be used for healing=beverages_store
+coffee=100=something you can drink with your partner=beverages_store
+rum_bottle=500=rum_bottle=beverages_store
+soda=500=soda=beverages_store
+cooked_boar_meat=1500=cooked meat of boar=cooked_items_store
+meat=500=meat to eat=cooked_items_store
+cooked_goat_meat=1000=cooked meat of goat=cooked_items_store
+cooked_rabit_meat=700=cooked meat of rabit=cooked_items_store
+cooked_horse_meat=2000=cooked meat of horse=cooked_items_store
+police_man_pants=25000=police pants for mans=man_cloths_store
+police_man_shirt=13000=police shirt for mans=man_cloths_store
+police_woman_pants=20000=police woman pants for womans=woman_cloths_store
+police_woman_shirt=12000=police shirt for womans=woman_cloths_store
+baseball_gloves=5000=baseball gloves=gloves_store
+winter_gloves=5000=winter gloves=gloves_store
+construction_gloves=10000=construction gloves=gloves_store
+clearing_gloves=5000=clearing gloves=gloves_store
+boxing_gloves=15000=boxing gloves=gloves_store
+knit_hat=1000=knit hat=hat_store
+cowboy_hat=800=Cowboy hat=hat_store
+police_helmet=10000=police helmet=hat_store

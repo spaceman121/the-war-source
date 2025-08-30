@@ -1,0 +1,25 @@
+mapname:time_world
+maxx:1000
+maxy:0
+maxz:1000
+noitems:0:1000:0:1000:0:1000:concussive_grenade:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter:hors:elec_boat
+
+tile:0:1000:0:0:0:0:sand
+zone:0:1000:0:1000:0:1000:time_world
+src:0:1000:0:1000:5:1000:amb11.ogg
+zone:100:100:0:0:0:0:the ottoman:trackme
+zone:500:500:0:0:0:0:the romen:trackme
+travelpoint:200:200:0:0:0:0:key_shop:0:0:0:cum back
+zone:200:200:0:0:0:0:back to world:trackme
+fightingstate:0
+
+noitems:0:500:0:500:0:500:aircraft
+noitems:0:500:0:500:0:500:Truck
+noitems:0:500:0:500:0:500:tank
+noitems:0:1000:0:0:0:1000:ml_Automatic_machinegun
+noitems:0:1000:0:0:0:1000:police_car_super
+noitems:0:1000:0:0:0:1000:tank
+noitems:0:1000:0:0:0:1000:armored_tank
+noitems:0:1000:0:0:0:1000:dogan_slx
+noitems:0:500:0:0:0:6:police_car
+noitems:0:1111:0:1111:0:1111:elecboat

@@ -1,0 +1,24 @@
+mapname:bote
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:carpet
+tile:0:100:0:100:0:0:deepwater
+src:0:100:0:100:0:100:water2.ogg
+zone:0:100:0:100:0:100:bote
+tile:0:0:0:100:0:6:wallair
+tile:0:100:0:0:0:6:wallair
+src:0:100:0:100:10:100:urdusong13.ogg
+door:0:0:0:100:100:0:1000:doors.ogg:doors2moving.ogg:doors1open.ogg:doors1close.ogg
+zone:0:0:0:0:0:0:press d to start your bote
+zone:100:100:100:100:0:0:press t to go to the dancing hall:trackme
+travelpoint:100:100:100:100:0:0:dancing_hall:0:0:0:welcome and enjoy!
+noitems:0:500:0:500:0:500:suicide_bomb
+noitems:0:500:0:500:0:500:nuclear_bomb
+noitems:0:555:0:555:0:555:guided_missile:suicide_bomb:nuclear_bomb:motion_bomb:timebomb:ultrabomb:stp429:pipe_bomb:mlk_203_combat_pistol:aircraft:tank:police_car:police_car_super:Truck:armored_tank:wood:mine:rocketlauncher:helicopter:cannon:stun_dart:stun_grenade:concussive_grenade:shield
+noitems:0:555:0:555:0:555:bazooka
+noitems:0:555:0:555:0:555:browning_m2_heavy_50_cal_machinegun
+noitems:0:555:0:555:0:555:blz83_portable_machine_gun
+noitems:0:500:0:500:0:500:dogan_slx
+noitems:0:5555:0:5555:0:5555:elecboat
+noitems:0:500:0:500:0:500:stone

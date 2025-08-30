@@ -1,0 +1,44 @@
+if(players[i].level>=1 and players[i].level<=50) players[i].ptitle="newbie";
+if(players[i].level>=51 and players[i].level<=100) players[i].ptitle="soldier";
+if(players[i].level>=101 and players[i].level<=150) players[i].ptitle="corporal";
+if(players[i].level>=151 and players[i].level<=200) players[i].ptitle="Sergeant";
+if(players[i].level>=201 and players[i].level<=300) players[i].ptitle="Staff_Sergeant";
+if(players[i].level>=301 and players[i].level<=400) players[i].ptitle="Sergeant_Major";
+if(players[i].level>=401 and players[i].level<=600) players[i].ptitle="Senior_Warrant_Officer";
+if(players[i].level>=601 and players[i].level<=750) players[i].ptitle="Second_Lieutenant";
+if(players[i].level>=751 and players[i].level<=1000) players[i].ptitle="Lieutenant";
+if(players[i].level>=1001 and players[i].level<=1300) players[i].ptitle="Captain";
+if(players[i].level>=1301 and players[i].level<=1500) players[i].ptitle="Major";
+if(players[i].level>=1501 and players[i].level<=1750) players[i].ptitle="Lieutenant_Colonel";
+if(players[i].level>=1751 and players[i].level<=2000) players[i].ptitle="Colonel";
+if(players[i].level>=2001 and players[i].level<=2500) players[i].ptitle="Brigadier";
+if(players[i].level>=2501 and players[i].level<=3000) players[i].ptitle="Major_General";
+if(players[i].level>=3001 and players[i].level<=4000) players[i].ptitle="Lieutenant_General";
+if(players[i].level>=4001 and players[i].level<=5000) players[i].ptitle="General";
+if(players[i].level>=5001 and players[i].level<=10000) players[i].ptitle="Field_Marshal";
+if(players[i].map=="jail") players[i].ptitle="prisoner";
+if(players[i].super=="no")
+{
+if (players[i].xp>=players[i].xprequired)
+{
+players[i].level+=1;
+players[i].xprequired=(500*(players[i].level*(players[i].level*1)));
+players[i].xp=0;
+send_reliable(0,"play_s lvup"+random(1,10)+".ogg",0);
+send_reliable(0,players[i].nickname+" has reached to level "+players[i].level,2);
+if(players[i].get_item_count("dollar")>2000000000)
+send_reliable(players[i].peer_id, "You have 2000000000 dollar. ", 2);
+int extradollars=4;
+players[i].give("dollar",extradollars*players[i].level*players[i].level);
+}
+}
+if(players[k].level>=1 and players[i].level<=99) players[k].xp+=random(1000,5000);
+if(players[k].level>=100 and players[i].level<=199) players[k].xp+=random(5000,10000);
+if(players[k].level>=200 and players[i].level<=299) players[k].xp+=random(10000,15000);
+if(players[k].level>=300 and players[i].level<=399) players[k].xp+=random(15000,20000);
+if(players[k].level>=400 and players[i].level<=499) players[k].xp+=random(20000,25000);
+if(players[k].level>=500 and players[k].level<=599) players[k].xp+=random(25000,30000);
+if(players[k].level>=600 and players[k].level<=700) players[k].xp+=random(30000,35000);
+if(players[k].level>=700 and players[k].level<=799) players[k].xp+=random(35000,40000);
+if(players[k].level>=800 and players[k].level<=899) players[k].xp+=random(40000,45000);
+if(players[k].level>=900 and players[k].level<=999) players[k].xp+=random(45000,50000);

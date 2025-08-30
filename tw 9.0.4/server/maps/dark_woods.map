@@ -1,0 +1,15 @@
+mapname:dark_woods
+maxx:100
+maxy:100
+maxz:1000
+tile:0:100:0:100:0:0:grass3
+zone:0:100:0:100:0:10:dark woods
+src:0:100:0:100:7:10:md19.ogg
+src:0:100:0:100:7:10:night.ogg
+
+tile:20:20:0:19:0:100:walltree
+tile:20:20:21:99:0:100:walltree
+tile:21:40:40:40:0:100:walltree
+tile:42:50:40:40:0:100:walltree
+tile:51:51:0:100:0:100:walltree
+tile:0:0:100:100:0:20:dirt

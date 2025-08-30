@@ -1,0 +1,23 @@
+mapname:TheWarHouse
+maxx:400
+maxy:400
+maxz:200
+tile:0:400:0:400:0:0:carpet
+zone:0:400:0:400:0:400:house
+tile:0:60:0:40:0:0:concrete14
+tile:0:60:40:40:0:50:wallstone
+tile:60:60:0:40:0:50:wallstone
+zone:0:60:0:40:0:50:parking arya
+zone:30:30:39:39:0:0:door in to the gardening@trackme
+tile:30:30:40:40:0:50:walldoor3
+tile:0:60:41:100:0:0:shortgrass
+zone:0:60:41:100:0:50:arya for gardening
+zone:30:30:41:41:0:0:door in to the parking arya
+tile:0:60:100:100:0:50:wallfence2
+tile:60:60:41:100:0:50:wallfence2
+tile:61:150:0:100:0:0:gravel2
+zone:61:150:0:100:0:50:yard
+tile:0:59:0:39:0:0:concrete10
+fightingstate:0
+
+door:30:39:0:30:41:0:50:doornun.ogg:door2moving.ogg:door9open.ogg:door20close.ogg

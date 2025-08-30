@@ -1,0 +1,20 @@
+mapname:the_wolf's_cave
+maxx:250
+maxy:50
+maxz:100
+zone:0:250:0:50:0:100:The Wolf's Cave
+tile:0:250:0:50:0:0:cave
+robots:0:250:0:50:0:0:4:1000:wolf
+src:0:250:0:50:0:100:cave3.ogg
+noitems:0:250:0:50:0:100:cannon:elec_boat:police_motorcycle:police_car_super
+zone:0:0:0:0:0:0:GoBack:trackme
+travelpoint:0:0:0:0:0:0:forest:200:200:0:moved
+noitems:0:500:0:500:0:500:bazooka
+noitems:0:500:0:500:0:500:police_car
+noitems:0:500:0:500:0:500:stun_dart
+noitems:0:500:0:500:0:500:aircraft
+noitems:0:500:0:500:0:500:tank
+noitems:0:500:0:500:0:500:armerd_tank
+noitems:0:500:0:500:0:500:armored_tank
+noitems:0:500:0:500:0:500:police_car_super
+noitems:0:5555:0:5555:0:5555:elecboat

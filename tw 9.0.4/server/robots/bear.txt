@@ -1,0 +1,17 @@
+name bear
+health 1000000
+defence 1000
+speed 500
+damage 10000,40000
+shoot 1000
+distance 5
+aggro 1000
+spread 1
+angle 90
+steps 0
+loot dead_bear
+amount 1
+voices 6
+kills 5
+minxp 100
+maxxp 1000

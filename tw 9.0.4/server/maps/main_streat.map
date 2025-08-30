@@ -1,0 +1,215 @@
+mapname:main_streat
+maxx:1000
+maxy:1000
+maxz:1000
+noitems:0:1000:0:1000:0:1000:elec_boat:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:timebomb:motion_bomb:fire_starter:helicopter:missile_interseptor:stun_dart:modern_sub_machine_gun_carbine
+noitems:0:1000:0:1000:0:1000:suicide_bomb:stp429:
+noitems:0:1000:0:1000:0:1000:wirebomb:motion_bomb:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:bomb_defuser:guided_missile:bottle_bomb:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:nuclear_bomb
+noitems:0:1000:0:1000:0:1000:elecboat
+noitems:0:1000:0:1000:0:1000::boat
+noitems:0:1000:0:1000:0:1000:tasing_small_projectile
+noitems:0:1000:0:1000:0:1000:small_projectile
+src:0:1000:0:1000:0:1000:b1.ogg
+tile:0:1000:0:1000:0:0:concrete12
+tile:200:400:200:400:0:0:water3
+src:200:400:200:400:5:5:emb3.ogg
+tile:200:400:200:400:-50:-11:underwater
+tile:200:400:200:400:-10:-1:water3
+src:200:400:200:400:-50:-15:emb29.ogg
+tile:199:401:199:199:-50:-1:wallwater
+tile:199:199:200:401:-50:-1:wallwater
+tile:401:401:200:401:-50:-1:wallwater
+tile:200:401:401:401:-50:-1:wallwater
+src:200:400:200:400:20:20:md23.ogg
+
+zone:200:400:200:400:-50:-10:underwater
+zone:0:1000:0:1000:0:1000:main street
+zone:200:400:200:400:0:10:river
+zone:100:100:100:100:0:0:adventures of a lifetime:trackme
+zone:0:0:1000:1000:0:10:animal's world:trackme
+travelpoint:0:0:1000:1000:0:0:forest:0:0:0:welcome
+zone:800:800:800:800:0:10:Boxing Ring:trackme
+zone:1000:1000:0:0:0:10:Hell to paradise:trackme
+zone:500:500:0:0:0:10:Key_shop:trackme
+zone:500:500:500:500:0:10:magic world:trackme
+zone:1000:1000:1000:1000:0:10:road to golden world:trackme
+travelpoint:1000:1000:1000:1000:0:0:road_to_golden_world:0:0:2000:welcome and be careful!
+zone:0:0:0:0:0:10:SafeZone:trackme
+zone:1000:1000:500:500:0:10:the bank:trackme
+zone:450:450:450:450:0:10:The Deep Ocean:trackme
+zone:750:750:750:750:0:10:The Restaurant:trackme
+zone:500:500:1000:1000:0:10:zone of horrors:trackme
+travelpoint:0:0:0:0:0:0:main:0:0:0:welcome
+zone:200:400:200:400:-10:-1:river
+
+
+travelpoint:1000:1000:500:500:0:0:the_bank:0:0:0:welcome
+noitems:0:1000:0:1000:0:1000:bazooka
+noitems:0:1000:0:1000:0:1000:blz83_portable_machine_gun
+noitems:0:1000:0:1000:0:1000:m134_minigun
+noitems:0:1000:0:1000:0:1000:beretta_m9_pistol
+noitems:0:1000:0:1000:0:1000:beretta_nano_pocket_pistol
+noitems:0:1000:0:1000:0:1000:brass_knuckles
+noitems:0:1000:0:1000:0:1000:beretta_m1951_machine_pistol
+noitems:0:1000:0:1000:0:1000:browning_m2_heavy_50_cal_machinegun
+noitems:0:1000:0:1000:0:1000:barrett_m82_sniper_rifle
+noitems:0:1000:0:1000:0:1000:browning_high_power_bda_handgun
+noitems:0:1000:0:1000:0:1000:crt43_automatic_shotgun
+noitems:0:1000:0:1000:0:1000:cop_357_derringer_pistol
+noitems:0:1000:0:1000:0:1000:colt_python_revolver
+noitems:0:1000:0:1000:0:1000:colt_ar_15_assault_rifle
+noitems:0:1000:0:1000:0:1000:dragunovp_sniper
+noitems:0:1000:0:1000:0:1000:golden_war_axe
+noitems:0:1000:0:1000:0:1000:glock_17_pistol
+noitems:0:1000:0:1000:0:1000:mlk_203_combat_pistol
+noitems:0:1000:0:1000:0:1000:m1208_shotgun
+noitems:0:1000:0:1000:0:1000:mlk_207_combat_rifle
+noitems:0:1000:0:1000:0:1000:m16_assault_rifle
+noitems:0:1000:0:1000:0:1000:m24_sniper_rifle
+noitems:0:1000:0:1000:0:1000:mp5_machine_pistol
+noitems:0:1000:0:1000:0:1000:m4a1_assault_rifle
+noitems:0:1000:0:1000:0:1000:mp5
+noitems:0:1000:0:1000:0:1000:nak_nk1000_decimater
+noitems:0:1000:0:1000:0:1000:revolver
+noitems:0:1000:0:1000:0:1000:ruger_security_6_revolver
+noitems:0:1000:0:1000:0:1000:str_32_pump_action_shotgun
+noitems:0:1000:0:1000:0:1000:strong_machinegun
+noitems:0:1000:0:1000:0:1000:s&w_model66_revolver
+noitems:0:1000:0:1000:0:1000:stp21_handgun
+noitems:0:1000:0:1000:0:1000:sig_p226_combat_pistol
+noitems:0:1000:0:1000:0:1000:stp_s84q_automatic_suppressed_pistol
+noitems:0:1000:0:1000:0:1000:saiga_12_5_round_shotgun
+noitems:0:1000:0:1000:0:1000:sky_372_laser_machinegun
+tile:0:0:0:0:0:0:concrete3
+tile:0:0:1000:1000:0:0:concrete
+tile:0:0:500:500:0:0:gravel2
+tile:500:500:500:500:0:0:smallwood
+tile:1000:1000:1000:1000:0:0:concrete4
+tile:500:500:1000:1000:0:0:concrete5
+tile:1000:1000:0:0:0:0:cave
+tile:1000:1000:500:500:0:0:concrete9
+noitems:0:1000:0:1000:0:1000:sky_386_laser_assault_rifle
+noitems:0:1000:0:1000:0:1000:sky_286_laser_pistol
+zone:100:150:0:50:0:50:A Small Garden
+tile:100:150:0:50:0:0:shortgrass
+tile:125:125:25:25:0:20:branch2
+zone:125:125:25:25:0:20:A Big Tree:trackme
+tile:100:100:11:20:0:0:carpet3
+zone:100:100:11:20:0:0:Golden Flowers!
+tile:150:150:11:20:0:0:carpet3
+zone:150:150:11:20:0:0:Golden Flowers!
+tile:120:130:10:13:0:5:metalpipe
+zone:120:130:10:13:0:5:The  Bench!
+tile:120:130:15:18:4:4:metalpipe
+zone:120:130:15:18:4:4:The Party Table!
+tile:125:125:26:30:20:20:concrete3
+zone:125:125:26:30:20:20:Road to suicide!
+zone:125:125:30:30:20:20:Press T to die, and end your life!:trackme
+tile:250:350:200:350:40:40:roof
+tile:249:249:199:351:40:80:wallmetal13
+tile:249:351:351:351:40:80:wallmetal13
+tile:351:351:199:351:40:80:wallmetal13
+tile:251:351:199:199:40:80:wallmetal13
+tile:250:250:200:200:0:40:ladder3
+zone:249:351:200:351:40:80:Bridge
+zone:250:250:200:200:0:40:Climb to The Bridge:trackme
+tile:250:250:199:199:40:80:wallmetal13
+tile:350:350:350:350:0:40:ladder3
+zone:350:350:350:350:0:40:disentfrom Bridge:trackme
+zone:350:350:350:350:0:0:Climb to Bridge
+tile:300:300:275:275:40:90:roof4
+zone:300:300:275:275:40:90:clime to Tower!:trackme
+tile:300:300:276:351:90:90:roof2
+zone:300:300:276:351:90:100:Roof of Tower!
+travelpoint:125:125:30:30:20:20:hell_challenge:65:465:80:Its your own choice, so die now. You are going to hell!
+noitems:0:1000:0:1000:0:1000:mine
+noitems:0:1000:0:1000:-50:1000:ultrabomb
+noitems:0:1000:0:1000:-50:1000:ultrabomb_silencer
+noitems:0:1000:0:1000:-50:1000:fight_inviter
+noitems:0:1000:0:1000:-50:1000:invisibility_shield
+zone:0:1000:0:1000:1005:100000:Space
+fightingstate:0
+
+travelpoint:500:500:0:0:0:0:key_shop:0:0:0:Moved
+noitems:0:1000:0:1000:-50:100000:ultrabomb
+tile:500:500:0:0:0:0:carpet
+noitems:0:1000:0:1000:-50:100000:suicide_bomb
+src:125:125:13:15:25:30:english.ogg
+noitems:0:1000:0:1000:0:1000:sat_bomb
+noitems:0:1000:0:1000:0:100000:sat_bomb_remote
+noitems:0:1000:0:1000:0:1000:ml_Automatic_machinegun
+tile:250:250:250:250:250:250:concrete10
+zone:0:250:0:250:199:260:our new quest
+tile:244:244:247:247:250:250:rope
+tile:245:245:240:240:250:250:rope
+tile:238:238:241:241:250:250:rope
+tile:230:230:240:240:250:250:rope
+tile:223:223:236:236:250:250:rope
+tile:215:215:233:233:250:250:rope
+tile:210:210:230:230:250:250:rope
+tile:210:210:220:220:250:250:rope
+tile:210:210:210:210:250:250:rope
+tile:200:200:210:210:250:250:rope
+tile:200:200:200:200:250:250:rope
+zone:200:200:200:200:250:250:Press T to continue
+tile:100:100:100:100:250:250:rope
+travelpoint:200:200:200:200:250:250:main_streat:100:100:250:very good.
+tile:95:95:95:95:240:240:rope
+tile:90:90:85:85:230:230:rope
+tile:90:90:85:85:220:229:rope
+tile:90:90:80:80:220:220:rope
+tile:85:85:77:77:220:220:rope
+tile:80:80:70:70:215:215:rope
+tile:71:71:66:66:205:205:rope
+tile:70:70:60:60:200:200:rope
+tile:65:65:55:55:200:200:rope
+tile:60:60:50:50:200:200:rope
+tile:50:50:50:50:200:200:rope
+tile:50:50:42:42:200:200:rope
+tile:42:42:40:40:200:200:rope
+tile:40:40:35:35:200:200:rope
+tile:30:30:35:35:200:200:rope
+tile:30:30:30:30:200:200:rope
+tile:24:24:26:26:200:200:rope
+tile:20:20:20:20:200:200:rope
+tile:16:16:16:16:199:199:rope
+tile:10:10:16:16:199:199:rope
+tile:10:10:10:10:200:200:rope
+tile:6:6:5:5:200:200:rope
+tile:1:1:0:0:200:200:rope
+tile:0:0:0:0:200:200:carpet3
+zone:0:0:0:0:200:200:press d to start flying
+
+travelpoint:0:0:0:0:200:200:main_streat:250:250:10000:Welcome to Space! If you want to return back to world, just press T!
+travelpoint:0:1000:0:1000:1001:100000:main_streat:250:250:-50:Welcome to world!
+zone:250:250:250:250:-50:-50:Press T to complete our new quest, and start flying!
+travelpoint:250:250:250:250:-50:-50:main_streat:250:250:250:Welcome to our new quest!
+noitems:0:1000:0:1000:-50:1000000:guided_missile
+
+travelpoint:750:750:750:750:0:0:the_restaurant:0:0:0:Welcome
+
+noitems:0:1000:0:1000:0:1000:sky_429_laser_shotgun
+noitems:0:1000:0:1000:0:1000:legends Staff_Sergeant ChachaShikaari: lol
+noitems:0:1000:0:1000:-50:10000000:frequency_scrambler
+
+tile:800:800:800:800:0:0:concrete4
+zone:350:350:350:350:0:10:Press T to start Icecream mition!:trackme
+zone:1000:1000:990:990:0:10:Press T to submit your parsel at TW icecream company!:trackme
+tile:1000:1000:990:990:0:0:metalpipe
+tile:350:350:350:350:0:0:concrete9
+
+tile:100:100:100:100:0:0:concrete9
+zone:600:600:600:600:0:10:ghosthouse:trackme
+tile:600:600:600:600:0:0:cave
+zone:700:700:800:800:0:10:The War Hospital:trackme
+travelpoint:700:700:800:800:0:10:tw_hospital:0:0:0:Welcome
+tile:700:700:800:800:0:0:pavement
+tile:0:0:0:0:44444:44444:broken_glass
+tile:1:1:1:1:44444:44444:broken_glass
+tile:0:0:0:0:500:500:fi
+zone:300:300:500:500:0:10:The Mall:trackme
+tile:300:300:500:500:0:0:concrete6
+travelpoint:300:300:500:500:0:0:tw_mall:0:0:0:Welcome to The War mall, here you will find diffrent cloths. find some good for your needs.
+tile:125:125:25:25:20:25:cement
+zone:125:125:25:25:20:25:Some steps
+amb:0:1000:0:1000:0:1000:rain1.ogg

@@ -1,0 +1,17 @@
+name boxer
+health 3000000
+defence 0
+speed 300
+damage 50000,500000
+shoot 700
+distance 5
+aggro 30
+spread 1
+angle 50
+steps 2
+loot dollar
+amount 200000,500000
+voices 2
+kills 2
+minxp 90
+maxx 300

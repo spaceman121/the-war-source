@@ -1,0 +1,17 @@
+name zombie
+health 2000000
+defence 1000
+speed 500
+damage 100000,250000
+shoot 2000
+distance 5
+aggro 1000
+spread 1
+angle 90
+steps 0
+loot dollar
+amount 500
+voices 15
+kills 2
+minxp 1000
+maxxp 28000

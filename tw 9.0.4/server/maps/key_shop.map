@@ -1,0 +1,18 @@
+mapname:key_shop
+maxx:50
+maxy:50
+maxz:50
+tile:0:500:0:500:0:0:carpet3
+src:0:50:0:50:5:20:cave.ogg
+travelpoint:0:0:50:50:0:0:time_mountain:0:0:0:done
+zone:50:50:50:50:0:0:by time_key:trackme
+zone:0:50:0:50:0:50:key_shop
+zone:0:0:0:0:0:0:main streat:trackme
+travelpoint:0:0:0:0:0:0:main_streat:0:0:0:done
+zone:0:0:50:50:0:0:time_mountain:trackme
+noitems:0:50:0:50:0:50:wood
+zone:50:50:50:50:0:10:Press t to buy Time_Ke!!:trackme
+fightingstate:0
+noitems:0:50:0:50:0:50:ml_Automatic_machinegun
+noitems:0:50:0:50:0:50:dogan_slx
+noitems:0:555:0:555:0:555:elecboat

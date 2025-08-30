@@ -1,0 +1,61 @@
+mapname:malikali's_house
+maxx:200
+maxy:200
+maxz:500
+tile:0:500:0:500:0:0:carpet3
+zone:0:500:0:500:0:500:House of Malik Ali
+zone:51:200:0:200:40:70:Roof of the house
+zone:52:99:0:100:0:20:Main Hall
+zone:0:50:99:200:40:70:Roof of the house
+fightingstate:0
+amb:0:50:0:100:0:100:b2.ogg
+zone:0:50:0:100:0:100:A Small Garden
+tile:0:50:0:100:0:0:shortgrass
+tile:51:51:0:100:0:40:wallstone2
+tile:0:50:101:101:0:100:wallstone2
+door:50:100:0:52:100:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+door:52:100:0:50:100:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+tile:45:50:90:100:0:0:concrete4
+zone:45:50:90:100:0:10:Pathway to the House
+zone:50:50:100:100:0:10:Door to the main hall
+zone:51:60:100:100:0:10:Pathway to garden
+zone:52:52:100:100:0:10:Door to Garden
+tile:50:50:50:50:0:8:grass
+zone:50:50:50:50:0:8:A Small Tree
+tile:10:10:10:10:0:4:grass3
+tile:30:34:50:55:0:0:grass3
+zone:10:10:10:10:0:10:Wonderful Flower
+zone:30:34:50:55:0:0:Row of some beautiful flowers
+tile:30:34:50:55:0:0:grass3
+tile:21:30:71:80:0:0:swimming
+src:21:30:71:75:5:30:stream.ogg
+zone:21:30:70:80:0:100:A small Pond
+tile:20:20:70:81:0:100:wallcontainer
+tile:25:31:71:81:0:100:wallcontainer
+tile:21:31:81:81:0:100:wallcontainer
+tile:30:30:30:30:0:15:grass
+zone:30:30:30:30:0:15:A big Tree
+tile:51:60:100:100:0:0:concrete4
+tile:51:51:100:100:0:100:wallwooddoor
+tile:50:50:99:99:0:40:concrete3
+zone:50:50:99:99:0:40:Stares
+tile:51:200:0:200:40:40:concrete12
+tile:0:50:100:200:40:40:concrete12
+tile:0:50:100:100:10:70:wallstone2
+tile:51:51:0:98:40:70:wallstone2
+zone:51:53:99:99:40:50:Near the stares
+amb:51:200:0:200:40:70:b2.ogg
+amb:0:50:100:200:40:70:b2.ogg
+
+tile:100:100:0:99:0:30:wallstone2
+tile:100:100:100:100:0:30:wallwooddoor
+tile:51:100:101:101:0:30:wallstone2
+door:99:100:0:101:100:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+door:101:100:0:99:100:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+zone:99:99:100:100:0:10:Door
+zone:101:101:100:100:0:10:Door
+tile:99:99:100:100:0:0:concrete5
+tile:101:200:0:200:0:0:concrete6
+tile:101:101:100:100:0:0:concrete5
+tile:0:100:102:200:0:0:concrete6
+

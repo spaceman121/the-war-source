@@ -1,0 +1,60 @@
+mapname:time_mountain
+maxx:1000
+maxy:1000
+	maxz:2000
+tile:0:1000:0:1000:0:0:grass
+tile:0:1000:0:20:0:0:ledge2
+tile:0:1000:21:21:0:30:gravel4
+tile:0:1000:22:22:0:30:wallstone
+tile:0:1000:21:21:31:31:gravel4
+tile:0:1000:22:32:31:31:dirt3
+tile:0:1000:33:33:31:50:dirt2
+tile:0:1000:34:34:31:49:wallstone
+tile:0:1000:34:34:50:50:dirt
+tile:0:1000:34:50:50:50:dirt
+tile:0:1000:60:60:50:80:gravel
+tile:0:1000:61:61:50:79:wallstone
+tile:0:1000:61:80:80:80:sand2
+tile:0:1000:100:100:80:100:sand2
+tile:0:1000:101:101:80:99:wallstone
+tile:0:1000:85:85:80:80:sand2
+tile:0:1000:91:91:80:80:sand2
+tile:0:1000:101:120:100:100:gravel6
+tile:0:1000:130:130:100:100:gravel
+tile:0:1000:131:131:100:104:wallstone
+tile:0:1000:141:141:104:104:gravel4
+tile:0:1000:142:142:104:108:wallstone
+tile:0:1000:152:152:108:108:cement
+tile:0:1000:153:153:108:112:wallstone
+tile:0:1000:163:163:112:112:cement
+src:0:1000:0:33:0:50:background2.ogg
+src:0:1000:33:60:50:80:amb16.ogg
+src:0:1000:72:100:80:100:amb7.ogg
+src:0:1000:115:163:100:112:mountain.ogg
+tile:0:1000:23:200:0:0:cave
+tile:0:1000:163:163:0:0:cement
+tile:0:1000:23:163:0:4:cement
+tile:0:1000:23:163:0:4:wallborder
+tile:0:1000:164:164:112:300:wallbuilding4
+tile:100:100:164:164:112:120:wallchest
+tile:0:1000:165:1000:112:112:grass3
+door:100:163:112:100:165:112:5:doors.ogg:door2movings.ogg:door2open.ogg:door2close.ogg
+door:100:165:112:100:163:112:2:doors.ogg:door2moving.ogg:door2open.ogg:door2close.ogg
+zone:0:1000:163:163:112:1000:time_mountain
+amb:0:1000:165:1000:112:1000:b1.ogg
+ispawn:0:500:166:1000:112:112:1000:100000:golden_apple
+zone:0:1000:0:163:0:111:time_mountain
+zone:0:1000:166:1000:112:1000:golden garden
+fightingstate:0
+noitems:0:1000:0:1000:0:1000:concussive_grenade:aircraft:tank:armored_tank:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter:hors:elec_boat
+zone:100:100:163:163:112:122:entrance to  golden_garden:trackme
+zone:0:0:1000:1000:112:122:ranted the time_horse:trackme
+travelpoint:0:0:0:0:0:0:key_shop:0:50:0:done
+zone:0:0:0:0:0:0:go back:trackme
+tile:0:1000:23:1000:0:5:fi
+noitems:0:5000:0:5000:0:5000:dogan_slx
+zone:100:100:165:165:112:122:exit from golden_garden:trackme
+noitems:0:5000:0:5000:0:5000:remote_gun
+noitems:0:5000:0:5000:0:5000:frequency_scrambler
+noitems:0:1111:0:1111:0:1111:police_car
+noitems:0:5555:0:5555:0:5555:elecboat

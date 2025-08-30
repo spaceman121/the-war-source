@@ -1,0 +1,111 @@
+mapname:park_of_dreams
+maxx:200
+maxy:200
+maxz:200
+tile:0:200:0:200:0:0:grass
+zone:0:200:0:200:0:15:park_of_dreams
+tile:0:200:0:200:0:0:shortgrass
+zone:0:0:0:0:0:12:press t to go back to the city:trackme
+travelpoint:0:0:0:0:0:0:the_city:0:0:0:you came back to the city
+tile:0:200:0:200:0:0:grass3
+zone:125:175:125:175:-20:15:the small Golden dark pond:trackme
+src:0:200:0:200:20:200:md23.ogg
+src:125:175:125:175:9:12:emb3.ogg
+src:0:200:0:200:3:200:birds9.ogg
+tile:125:175:125:175:0:0:water
+tile:125:175:125:175:-4:-1:water4
+tile:125:175:125:175:-9:-5:deepwater
+amb:125:175:125:175:-10:-9:emb29.ogg
+tile:125:175:125:175:-10:-10:underwater
+tile:124:124:125:176:-10:-1:wallunderwater2
+tile:176:176:125:175:-10:-1:wallunderwater2
+tile:124:176:176:176:-10:-1:wallunderwater2
+tile:124:125:124:124:-10:-1:wallunderwater2
+tile:126:176:124:124:-10:-1:wallunderwater2
+zone:124:176:124:176:-10:-10:bottom of the pont
+ispawn:125:175:125:175:-10:-10:1000:1:gold
+tile:60:70:70:80:0:10:wallbuilding
+tile:65:65:70:70:0:10:branch
+tile:60:70:71:80:10:10:carpet2
+tile:59:59:71:71:10:15:wallbuilding
+tile:59:59:71:80:10:15:wallbuilding
+tile:60:70:81:81:10:15:wallbuilding
+tile:71:71:70:90:10:15:walbuilding
+tile:65:65:70:70:12:15:wallfence
+zone:65:65:70:70:0:10:staircase to a relaxing square
+zone:60:70:71:80:10:17:a soft, relaxing square
+zone:57:72:68:82:0:0:near a relaxing square
+zone:65:65:71:71:0:10:staircase to the relaxing square
+zone:60:70:71:80:10:17:a soft. relaxing square
+tile:60:70:71:80:16:16:wallbuilding
+tile:60:70:71:80:10:10:branch
+zone:65:65:70:70:0:10:staircase to the relaxing square:trackme
+tile:60:70:71:80:10:10:carpet2
+tile:71:71:71:80:10:15:wallbuilding
+tile:122:178:122:124:0:0:mud
+tile:122:124:125:178:0:0:mud
+tile:176:178:125:178:0:0:mud
+tile:125:175:176:178:0:0:mud
+tile:117:183:117:121:0:0:sand
+tile:117:121:122:183:0:0:sand
+tile:122:182:179:183:0:0:sand
+zone:117:124:117:183:0:10:near the pond
+zone:125:183:176:183:0:10:near the pond
+tile:179:183:125:178:0:0:sand
+zone:176:183:125:175:0:10:near the pond
+zone:176:178:122:178:0:10:muddy edge of the pond
+zone:122:175:176:178:0:10:muddy edge of the pond
+zone:122:124:122:175:0:10:muddy edge of the pond
+zone:125:175:122:124:0:10:muddy edge of the pond
+zone:125:175:117:121:0:10:near the pond
+fightingstate:0
+noitems:0:200:0:200:0:200:cannon:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+
+tile:116:116:119:119:0:15:branch2
+zone:116:116:119:119:0:30:tree
+tile:66:66:71:71:0:6:branch2
+zone:66:66:71:71:0:20:tree
+tile:92:92:96:96:0:9:branch2
+zone:92:92:96:96:0:30:tree
+tile:165:165:181:181:0:11:branch2
+zone:165:165:181:181:0:40:tree
+tile:16:16:23:23:0:13:branch2
+zone:16:16:23:23:0:40:tree
+tile:112:112:50:50:0:8:branch2
+zone:112:112:50:50:0:40:tree
+tile:76:76:25:25:0:17:branch2
+zone:76:76:25:25:0:40:tree
+tile:193:193:25:25:0:13:branch2
+zone:193:193:25:25:0:40:tree
+tile:127:127:36:36:0:21:branch2
+zone:127:127:36:36:0:40:tree
+tile:111:111:181:181:0:7:branch2
+zone:111:111:181:181:0:40:tree
+zone:58:58:190:190:0:40:tree
+tile:58:58:190:190:0:16:branch2
+tile:0:0:157:157:0:10:branch2
+zone:0:0:157:157:0:40:tree
+tile:50:50:88:88:0:17:branch2
+zone:50:50:88:88:0:40:tree
+tile:79:79:32:32:0:9:branch2
+zone:79:79:32:32:0:40:tree
+tile:101:101:4:4:0:16:branch2
+zone:101:101:4:4:0:40:tree
+tile:148:148:62:62:0:5:branch2
+zone:148:148:62:62:0:40:tree
+tile:126:126:103:103:0:8:branch2
+zone:126:126:103:103:0:40:tree
+tile:16:16:200:200:0:14:branch2
+zone:16:16:200:200:0:40:tree
+tile:121:121:200:200:0:17:branch2
+zone:121:121:200:200:0:40:tree
+tile:84:84:170:170:0:12:branch2
+zone:84:84:170:170:0:40:tree
+tile:56:56:115:115:0:7:branch2
+zone:56:56:115:115:0:40:tree
+tile:41:41:70:70:0:11:branch2
+zone:41:41:70:70:0:40:tree
+tile:52:52:20:20:0:15:branch2
+zone:52:52:20:20:0:40:tree
+tile:60:60:0:0:0:8:branch2
+zone:60:60:0:0:0:40:tree

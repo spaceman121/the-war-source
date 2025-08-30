@@ -1,0 +1,16 @@
+name monster
+health 2500000
+defence 10000
+speed 500
+damage 150000
+shoot 5000
+distance 20
+aggro 1000
+spread 1
+angle 360
+steps 0
+voices 3
+loot bitcoin
+amount 10
+minxp 5000
+maxxp 11000

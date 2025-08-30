@@ -1,0 +1,57 @@
+mapname:the_restaurant
+maxx:100
+maxy:100
+maxz:100
+zone:0:100:0:100:0:100:the restaurant!
+tile:0:100:0:100:0:0:concrete7
+amb:0:100:0:100:0:100:restaurant3.ogg
+fightingstate:0
+tile:0:10:31:49:5:5:stairs
+tile:0:10:30:30:0:5:wallcontainer
+zone:0:11:29:51:0:6:Main Counter
+tile:0:10:50:50:0:5:wallcontainer
+tile:11:11:30:50:0:5:wallcontainer
+tile:50:50:0:0:0:0:metalpipe
+zone:50:50:0:0:0:10:Food Store:trackme
+tile:100:100:0:0:0:0:metalpipe
+zone:100:100:0:0:0:10:Beverages Store:trackme
+noitems:0:500:0:500:0:500:tank
+noitems:0:500:0:500:0:500:aircraft
+noitems:0:500:0:500:0:500:dogan_xlx
+noitems:0:500:0:500:0:500:dogan_slx
+noitems:0:500:0:500:0:500:armored_tank
+noitems:0:500:0:500:0:500:elec_boat:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:500:0:500:0:500:suicide_bomb
+noitems:0:500:0:500:0:500:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:nuclear_bomb
+noitems:0:500:0:500:0:500:elecboat
+noitems:0:500:0:500:0:500:hors:boat
+noitems:0:500:0:500:0:500:tasing_small_projectile
+noitems:0:500:0:500:0:500:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:100:0:100:0:100:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:500:0:500:0:500:elec_boat:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:500:0:500:0:500:suicide_bomb
+noitems:0:500:0:500:0:500:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:nuclear_bomb
+noitems:0:500:0:500:0:500:elecboat
+noitems:0:500:0:500:0:500:hors:boat
+noitems:0:500:0:500:0:500:tasing_small_projectile
+noitems:0:500:0:500:0:500:ultrabomb
+noitems:0:500:0:500:0:500:ultrabomb_silencer
+noitems:0:500:0:500:0:500:tank
+noitems:0:500:0:500:0:500:armered_tank
+noitems:0:500:0:500:0:500:armored_tank
+noitems:0:500:0:500:0:500:Truck
+noitems:0:500:0:500:0:500:police_car
+noitems:0:500:0:500:0:500:aircraft
+noitems:0:500:0:500:0:500:dogan_slx
+noitems:0:500:0:500:0:500:suicide_bomb
+
+noitems:0:100:0:100:0:100:modern_sub_machine_gun_carbine
+noitems:0:100:0:100:0:100:ml_Automatic_machinegun
+noitems:0:100:0:100:0:100:mlk_203_combat_pistol
+noitems:0:100:0:100:0:100:m29_sniper_rifle
+zone:25:50:25:50:5:10:Table:trackme
+zone:100:100:50:50:0:10:Cooked Items Store:trackme
+zone:0:0:0:0:0:10:Go Back:trackme
+travelpoint:0:0:0:0:0:0:main_streat:0:0:0:Welcome
+tile:25:50:25:50:5:5:hardwood2
+tile:100:100:50:50:0:0:metalpipe

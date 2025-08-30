@@ -1,0 +1,137 @@
+Welcome to, MD Games Production, present's, The War!
+
+About The War!
+
+A 3D Audio Action - Adventure Game!
+Presented by! MD Games Production!
+
+this game totally different from all other audio FPS games.
+we are trying to give our best adventurous audio gaming experience through our game.
+Key Features:
+You can chat with other players in real time!
+You can kill other players and increes your kills!
+You can kill animals and increes your rank!
+You can freely rome in any map!
+You can drive your own cars and bikes!
+and many more exciting features!
+Game features:
+Game mode:
+There are two modes available: mode 1, mode 2.
+Mode 1: for 3D gaming experience.
+Mode 2: for 2D gaming experience.
+
+Walking mode: if you enable this you can walk continuously by holding the arrow keys in the desired directions. if you disable this you need to press the arrow keys for each and every step for desired directions.
+
+The Camera
+The camera allows you to see what's around you in the game. It can be useful for looking for edges of platforms, above or below you, and locating a multitude of other things. Here's how it works.
+To use your camera, you must be holding the G Key.
+While the G key is down, the following keys  can be used:
+Up, down, left and right arrows: Move your camera. It will play sounds at the camera's location on what it finds, e.g. walls, air, tiles, hazard, etc.
+Page Up / Down: Moves your camera up or down.
+V: Repeats the sound at the camera's current location.
+F: Speaks what is at the camera's current tile coordinates.
+
+Keystrokes:
+
+Up, Down, Left, and Right arrow keys: Moves you around the map respectively.
+Space: jump.
+Control: fires currently selected weapon.
+TAB: move's upwards to your invotory.
+SHIFT PLUS TAB: move's backwards to your invotory.
+Q and E: turn.
+W: tell where the player you are tracking is.
+R: Reloads weapon if you have enough ammo.
+T: enter to the map.
+U: chat with your team.
+I: opens inventory, press enter to select currently focused item, again enter to activate that.
+O: bitting amount while auction.
+p: check nearby players.
+A: check nearby robots.
+S: sit and stand.
+F: check facing direction.
+G: camera.
+ALT PLUS G: sell menu.
+ALT PLUS H: Sends A help message to team if you are in one.
+H: checks your health.
+J: tell directions to the tracked zone.
+K: cancel bit.
+L: check your current level.
+SEMICOLON: social menu
+z: check ammo in a weapon.
+X: track a zone.
+c: check coordinates.
+N: tell current location.
+M: check nearby items and other objects.
+SHIFT PLUS F2: Enable or disable AFK Mode.
+Shift+K: cancel auction.
+Shift+C: copy current buffer item.
+Shift+V: reply to the pm message.
+Shift+BackSpace: drop a currently focused item.
+Shift and a number: set a favorite item slot to the currently focused item.
+Alt and a number: use that assigned favorite.
+Alt+r: checks your air.
+left bracket: previous buffer.
+right bracket: next buffer.
+Comma: previous item in current buffer.
+Period: next item in current buffer.
+The buffer keys can have shift added to make previous and next become first and last.
+Slash: public chat.
+Back slash: map chat.
+home/end: change the master volume of the game, home is turning it up end is turning it down.
+page up/page down: in the game itself, climbs, but in the menus, adjusts the volume of the menu music.
+F1: check who is online in the server.
+F2: check the servers up time. Not really useful, but good to check server stability.
+F3: checks your ping. It will play a sound when you start pinging, and when it returns. Your text-to-speech will then say how many milliseconds the ping took to come back. Ping is how long it takes for your client to send something to the server, and get a response back from said server. It's useful to check lag, your connection, and a few other things.
+F4: Checks the message of the day.
+F5: current map players menu.
+F6: entire game players menu.
+F7: player settings menu.
+F8: speach mode on, off.
+F9: switch game mode.
+F10:  switch walking mode.
+F11: tell's you server stats
+Escape: exit from the game.
+
+In Players menu:
+F1: to know the player's stats, like levels, kills, deaths and all.
+F2: chat with player personally.
+F3: to know where the player.
+F4: copy the player name.
+Alt+M: mute the player.
+Alt+U: unmute the player.
+Enter: to track a player.
+Note: if you want to do above player's menu option you should place your focus on that perticular player name. 
+
+In a player settings menu:
+team menu: you can do team relative activitys here like creat a team, join a team like that.
+Select your gender: you can change your gender here.
+Select language channel: here you can select your regional language channel for chatting purpose.
+Notifications menu: here you can change your notification relative things like, turn on off PM, like that.
+Beacon: here you can turn beacon on or off
+Pasifist mode: this is like safe mode while you are pasifist know one can't kill you. you also can't kill others
+change your nickname: change's your nickname.
+change account email: change's your account's email
+
+Vehicles:
+h: report health and fuel of your vehicle.
+Escape will exit the vehicle, but only if it's completely shut off.
+E: starts and stops the engine.
+While the engine is running, the following keys are operational.
+up arrow: speed up.
+Down arrow: slow down.
+left arrow: turn left.
+Right arrow: turn right.
+Note, if your vehicle runs out of fuel it's engine will shut off. Before your vehicle is out of fuel, a small alarm will begin to sound. You have this time to stop moving, turn off your engine, and refuel it by using a fuel tank from your inventory.
+
+Credits:
+Thanks to those, Who spend there time to Make this game better!
+Developers:
+Malik Ali and JimmyDub
+administrators:
+SKGamer, guardian, killer, mureed and ss.
+Conclusion:
+We really hope you enjoy this game, as We have enjoyed working on it and have been trying to keep up with ideas and reports.
+
+If you have anything to ask us, or need to report something, you can contact us with the following e-mail ID: ExclusiveInfoLab@gmail.com, or, alira1623515@gmail.com
+You can contact us on WhatsApp on following number: +92-316-1518-235
+Copyright 2020-2050, MD Games Production, all rights reserved.

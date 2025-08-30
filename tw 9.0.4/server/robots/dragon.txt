@@ -1,0 +1,15 @@
+name dragon
+health 10000000
+defence 10000
+speed 500
+damage 100000
+shoot 1000
+distance 20
+aggro 1000
+spread 1
+angle 360
+steps 2
+loot dollar
+amount 225000
+minxp 200
+maxxp 900

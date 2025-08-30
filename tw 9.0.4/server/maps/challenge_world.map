@@ -1,0 +1,30 @@
+mapname:challenge_world
+maxx:500
+maxy:0
+maxz:500
+zone:0:500:0:0:0:10:challenge world
+tile:0:500:0:0:0:0:concrete6
+fightingstate:0
+zone:0:0:0:0:0:10:go back:trackme
+travelpoint:0:0:0:0:0:0:main:25:0:0:welcome back
+src:0:500:0:0:0:500:air.ogg
+src:0:500:0:0:15:500:md2.ogg
+noitems:0:500:0:0:0:500:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:500:0:0:0:500:elec_boat:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:500:0:0:0:500:suicide_bomb
+noitems:0:500:0:0:0:500:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:nuclear_bomb
+noitems:0:500:0:0:0:500:elecboat
+noitems:0:500:0:0:0:500:hors:boat
+noitems:0:500:0:0:0:500:tasing_small_projectile
+zone:50:50:0:0:0:10:ammo challenge, if you complete this challenge map, you will get some ammos!:trackme
+zone:100:100:0:0:0:10:water challenge, if you complete this challenge map, you will get some dollars!:trackme
+noitems:0:500:0:0:0:500:ml_Automatic_machinegun
+noitems:0:500:0:500:0:500:modern_sub_machine_gun_carbine
+noitems:0:500:0:500:0:500:m4a1_assault_rifle
+zone:120:120:0:0:0:10:Fire Challenge, if you complete this challenge map, you will get a reward!:trackme
+noitems:0:500:0:500:0:10:Truck
+noitems:0:500:0:500:0:10:armored_tank
+noitems:0:500:0:500:0:10:dogen_xlx
+noitems:0:500:0:500:0:10:dogan_slx
+zone:150:150:0:0:0:10:Crazy Challenge, if you complete this challenge map, you will get lots of dollars!:trackme
+zone:170:170:0:0:0:10:The Legendary challenge! if you complete this challenge, you will get some xp boxes!:trackme

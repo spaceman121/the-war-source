@@ -1,0 +1,50 @@
+mapname:tw_main
+maxx:600
+maxy:600
+maxz:600
+tile:0:600:0:600:0:0:dirt7
+zone:0:600:0:600:0:600:BattleField
+noitems:0:600:0:600:0:600:tasing_small_projectile:modern_sub_machine_gun_carbine
+noitems:0:600:0:600:0:600:small_projectile
+noitems:0:600:0:600:0:600:store_card
+travelpoint:0:0:0:0:0:0:main:0:50:0:moved
+zone:0:0:0:0:0:10:GoBackToSafeZone:trackme
+
+src:0:600:0:600:10:600:Desert Wind Morning.ogg
+zone:500:500:500:500:0:25:clime to tower:trackme
+tile:500:500:500:500:0:25:glass
+zone:500:500:500:500:26:30:tower
+tile:501:550:501:550:25:25:roof4
+tile:500:550:500:550:25:25:roof4
+zone:500:550:500:550:25:35:tower
+tile:551:551:501:551:25:50:wallmetal5
+tile:551:551:500:500:25:50:wallmetal5
+tile:551:551:499:499:25:50:wallmetal9
+tile:501:551:499:499:25:50:wallmetal7
+tile:499:499:500:551:25:35:wallscreen
+tile:499:551:551:551:25:50:wallmetalglass
+tile:500:500:501:501:0:24:wallmetal16
+tile:500:500:499:499:25:50:wallstone
+noitems:500:551:500:551:25:50:police_motorcycle
+noitems:500:500:500:500:0:50:police_motorcycle
+noitems:500:500:500:500:0:50:police_car_super
+tile:499:499:499:499:25:50:wallwood13
+tile:550:550:550:550:0:25:bleacher
+zone:550:550:550:550:0:35:go down from tower:trackme
+tile:551:551:551:551:0:24:wallwood14
+tile:550:550:551:551:0:24:wallwood6
+noitems:0:600:0:600:0:500:blz83_portable_machine_gun
+noitems:500:551:500:551:1:50:armored_tank
+zone:500:500:500:500:25:25:Disent from tower
+
+noitems:0:600:0:600:0:600:nak_nk1000_decimater
+noitems:0:600:0:600:0:600:beretta_m1951_machine_pistol
+noitems:0:600:0:600:0:600:ml_Automatic_machinegun
+
+src:0:1000:0:1000:10:1000:wind2.ogg
+noitems:0:5555:0:5555:0:5555:elecboat
+tile:0:0:0:0:44444:44444:broken_glass
+noitems:0:5555:0:5555:0:5555:stp_s84q_automatic_suppressed_pistol
+noitems:0:5555:0:5555:0:5555:guided_missile
+src:500:550:500:550:40:50:urdusong9.ogg
+noitems:0:600:0:600:0:600:arina_card

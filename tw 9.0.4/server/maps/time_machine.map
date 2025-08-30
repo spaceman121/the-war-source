@@ -1,0 +1,18 @@
+mapname:time_machine
+maxx:3000
+maxy:3000
+maxz:50
+fightingstate:0
+noitems:0:600:0:600:0:600:concussive_grenade:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+
+tile:0:3000:0:3000:0:3000:wallair
+src:0:3000:0:3000:5:3000:avs.ogg
+zone:0:3000:0:3000:0:3000:time_machine
+door:0:0:0:0:3000:0:10:doors.ogg:t machine.ogg:doors1open.ogg:doors1close.ogg
+fightingstate:0
+noitems:0:3000:0:3000:0:3000:concussive_grenade:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+travelpoint:0:0:1:2999:0:0:time_machine:0:0:0:done
+travelpoint:0:0:3000:3000:0:0:time_world:0:0:0:done
+zone:0:0:3000:3000:0:10:Press T to go to time world!
+zone:0:0:0:0:0:10:Press D to  Start the time machine!
+noitems:0:5555:0:5555:0:5555:elecboat

@@ -1,0 +1,71 @@
+string version="9.0.4";
+string lastupdate="15th April 2021, 8:00 PM, Pakistan standard time";
+string changes="
+new in version 9.0.4
+fixed updater
+changed the stile of message of the day to display at startup
+fix some bugs while reconnecting to the server if it's offline
+new in version 9.0.2.
+fixed some client bugs,
+Now the game will automaticly reconnect you if server will crash.new in version 9.0.0
+new in version 9.0.0.
+aded clothing system, you can buy clothes from TW mall, and wear them.
+aded /trust and /untrust command to trust or untrust any player.
+aded /look command to look at someone.
+aded AFK system.
+press shift f2 to turn on / turn off AFK mode.
+aded double XP system, it allows you to collect double XP.
+aded custom XP system, it will give you 10 times more XP.
+aded reserections system.
+when you will reach level 2000, your resurrection will go up by 1 and you will get some reward.
+rebuilt the level system.
+aded lots of new sounds.
+changed chat sound.
+changed PM sound.
+changed mapchat sound.
+aded new level up sounds.
+aded new offline and online sounds.
+aded new welcome sounds when you connect to the server.
+new in version 8.5.0
+aded unzipper and replacer.
+now you don't need to extract game updates. the game it self will do it.
+fix updater because we now have new website.
+new in version 8.4.0
+fixed updater
+aded Message of the day at startup of the game
+fixed some client bugs
+new in version 8.3.1
+game is now moved on a linix vps for better security
+new in version 8.2.0
+removed the option  to turn on check for updates at startup, because updates are meanfull for everyone, and you should running the latest version of the game to get latest features
+you can now move your invotory with tab, and shift tab keys
+fixed some bugs
+new in version 8.1.1
+aded hotkey for server stats
+press f11 to see server stats!
+new in version 8.1
+Aded achievements
+Fixed select menu music option!
+now it will tells you, from witch account you are logging in!
+fixed some other bugs!
+New in version 8.0
+aded few new maps,
+aded new store
+aded update system
+You can now turn off play logo at startup if you want to
+aded new robots
+fix some bugs
+changed so many sounds
+New in version 7.1
+now if you die in following maps, the_romen, or, the_ottoman, you will be spawn back to time world, not to safe zone!
+aded 2 new milay weapons!
+the team bug is now fixed, now you can join any team, and it has no members restriction!
+admintell message key is now changed, press shift y to send your message to the admins!
+Some miner changes are new in this version, witch can be find easyly by playing the game!
+New in 7.0
+lots of new stuf wer aded!
+lots of new guns,
+new maps,
+new sounds,
+new robots,
+And lots of more things!";

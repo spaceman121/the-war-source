@@ -1,0 +1,9 @@
+mapname:the_romantic_world
+maxx:50
+maxy:50
+maxz:100
+tile:0:50:0:50:0:0:wood
+zone:0:50:0:50:0:10:green-zone
+fightingstate:0
+noitems:0:1500:0:1500:-500:100:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:health_box:health_healer:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor
+amb:0:50:0:50:0:10:a.ogg

@@ -1,0 +1,15 @@
+mapname:something
+maxx:70
+maxy:70
+maxz:200
+zone:0:100:0:100:0:200:balls
+
+tile:0:70:0:70:0:0:concrete7
+
+tile:41:45:61:65:3:3:hardwood
+tile:41:45:61:65:0:2:wallcounter
+zone:41:45:61:65:0:10:check in counter:trackme
+tile:43:43:66:66:0:1:chair
+zone:43:43:66:66:0:1:chare
+tile:70:70:70:70:0:25:carpet2
+tile:0:70:0:70:25:25:concrete7

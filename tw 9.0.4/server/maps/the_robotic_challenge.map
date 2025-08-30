@@ -1,0 +1,11 @@
+mapname:the_robotic_challenge
+maxx:1000
+maxy:1000
+maxz:1000
+tile:0:1000:0:1000:0:0:carpet
+zone:0:1000:0:1000:0:1000:Challenge Of Robots
+travelpoint:0:0:0:0:0:0:the_robotic_hell:0:0:0:moovd
+tile:0:0:0:0:1000:1000:branch2
+src:0:1000:0:1000:0:1000:background2.ogg
+tile:0:1000:0:1000:0:0:gravel2
+door:97:44:0:151:151:0:500:doors.ogg:concrete2step1.ogg:door1open.ogg:door2close.ogg

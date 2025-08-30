@@ -1,0 +1,60 @@
+mapname:main
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:concrete25
+zone:0:100:0:100:0:100:SafeZone
+noitems:0:600:0:600:0:600:police_car:guided_missile:concussive_grenade:elec_boat:police_motorcycle:police_car_super:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:tank:aircraft:armored_tank:barricade_bomb
+zone:100:100:50:50:0:10:main street:trackme
+zone:100:100:0:0:0:10:challenge world:trackme
+travelpoint:100:100:0:0:0:0:challenge_world:0:0:0:welcome
+tile:100:100:0:0:0:0:rope
+tile:100:100:50:50:0:0:concrete3
+noitems:0:50:0:50:0:50:air_canister
+noitems:0:50:0:50:0:50:m134_minigun
+noitems:0:50:0:50:0:50:gas_mask
+noitems:0:50:0:50:0:50:ml_Automatic_machinegun
+noitems:0:50:0:50:0:50:ultrabomb
+noitems:0:50:0:50:0:50:ultrabomb_silencer
+noitems:0:50:0:50:0:50:Truck
+noitems:0:50:0:50:0:50:dogan_slx
+noitems:0:50:0:50:0:50:fight_inviter
+zone:50:50:100:100:0:10:The War Relaxing Room:trackme
+travelpoint:50:50:100:100:0:0:Relaxing_room:0:0:0:Welcome
+tile:50:50:100:100:0:0:carpet2
+noitems:0:50:0:50:0:50:missile_interceptor
+noitems:0:50:0:50:0:50:mine
+noitems:0:500:0:500:0:500:flare
+zone:50:50:50:50:50:60:store:trackme
+door:100:100:0:100:100:50:60:doors.ogg:elevator.ogg:door2opens.ogg:door2closes.ogg
+door:100:100:50:100:100:0:60:doors.ogg:elevator.ogg:door2opens.ogg:door2closes.ogg
+zone:100:100:100:100:0:0:A fast elevator, take's you to the second floor of the safe zone:trackme
+zone:100:100:100:100:1:49:elevator
+zone:100:100:100:100:50:60:A fast elevator, take's you to first floor of the safe zone:trackme
+tile:100:100:100:100:7:48:carpet
+zone:100:100:100:100:0:0:a fast elevator, takes you to the 2nd flowr of the safe zoan:trackme
+zone:0:100:0:100:50:100:Safe zone, second floor
+zone:50:50:50:50:50:50:store
+zone:100:100:100:100:50:50:a fast elevator, takes you to the first flowr of the safe zoan:trackme
+tile:100:100:90:90:0:50:concrete3
+tile:50:50:50:50:50:50:carpet
+noitems:0:500:0:500:0:500:fire_extinguisher
+noitems:0:500:0:500:0:500:empty_apple_juice
+zone:100:100:90:90:0:50:Stairs:trackme
+zone:100:100:0:0:50:60:The War House!:trackme
+travelpoint:100:100:0:0:50:50:tw_house:0:0:0:Welcome to The War House!
+noitems:0:555:0:555:0:555:knife
+zone:50:50:50:50:0:10:Press T to buy from vending machine:trackme
+vending_machine:50:50:0
+tile:50:50:50:50:0:0:glass
+zone:0:0:100:100:0:10:Press T to go to the battle fealed:trackme
+tile:0:0:100:100:0:0:concrete11
+noitems:0:1000:0:1000:0:1000:boat
+amb:0:100:0:100:0:100:birds15.ogg
+tile:0:100:0:100:50:50:concrete8
+noitems:0:1000:0:1000:0:1000:hors:stp429:nuclear_bomb:suicide_bomb
+amb:0:100:0:100:0:500:rain1.ogg
+fightingstate:0
+noitems:0:100:0:100:0:100:iron_shovel
+noitems:0:50:0:50:0:50:guided_missel
+noitems:0:50:0:50:0:50:guided_missile

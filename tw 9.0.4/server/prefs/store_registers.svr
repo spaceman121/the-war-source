@@ -1,0 +1,13 @@
+weapon_store=5=20=0=store
+ammo_store=5=45=0=store
+misc_store=90=20=0=store
+healthy_store=5=45=50=store
+explosive_store=90=20=50=store
+vehicle_store=5=20=50=store
+food_store=50=0=0=the_restaurant
+beverages_store=100=0=0=the_restaurant
+cooked_items_store=100=50=0=the_restaurant
+man_cloths_store=100=0=0=tw_mall
+woman_cloths_store=50=50=0=tw_mall
+gloves_store=50=0=0=tw_mall
+hat_store=100=100=0=tw_mall

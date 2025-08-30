@@ -1,0 +1,9 @@
+mapname:arena
+maxx:500
+maxy:500
+maxz:30
+tile:0:500:0:500:0:0:sand2
+zone:0:500:0:500:0:30:arena
+noitems:0:500:0:500:0:300:suicide_bomb:nuclear_bomb::ultimate_bomb:field_card:fantasy_pass:grenade
+tile:0:500:0:500:10:10:cement
+noitems:0:400:0:400:0:200000:guided_missile

@@ -1,0 +1,17 @@
+name lion
+health 20000000
+defence 1000
+speed 400
+damage 1500000
+shoot 2000
+distance 10
+aggro 1000
+spread 5
+angle 360
+steps 0
+loot dead_lion
+amount 1
+voices 5
+kills 5
+minxp 50000
+maxxp 100000

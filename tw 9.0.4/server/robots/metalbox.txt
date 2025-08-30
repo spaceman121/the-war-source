@@ -1,0 +1,14 @@
+name metalbox
+health 15000000
+defence 1000
+speed 1000000000
+damage 0
+shoot 1000000000
+distance 0
+aggro 1000
+spread 1
+angle 90
+steps 0
+loot metal
+amount 500
+pains 2

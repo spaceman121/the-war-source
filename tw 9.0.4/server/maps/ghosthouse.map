@@ -1,0 +1,24 @@
+mapname:ghosthouse
+maxx:400
+maxy:400
+maxz:400
+tile:0:400:0:400:0:0:cave
+zone:0:400:0:400:0:400:ghosthouse
+zone:200:200:200:200:0:10:go back:trackme
+noitems:0:1000:0:1000:0:1500:armored_tank
+noitems:0:1000:0:1000:0:1500:dogan_slx
+noitems:0:1000:0:1000:0:1500:police_car_super
+noitems:0:1500:0:1500:0:1500:bazooka
+noitems:0:1500:0:1500:0:1500:cannon
+noitems:0:1500:0:1500:0:1500:stp429
+noitems:0:1500:0:1500:0:1500:rocketlauncher
+noitems:0:1500:0:1500:0:1500:frequency_scrambler
+
+robots:0:400:0:400:0:0:10:1000:ghost,spirit,witch
+noitems:0:444:0:444:0:444:aircraft
+noitems:0:444:0:444:0:444:guided_missile
+noitems:0:444:0:444:0:444:police_car
+
+noitems:0:400:0:400:0:400:Truck
+src:0:400:0:400:20:30:tower_of_terror.ogg
+travelpoint:200:200:200:200:0:0:main_streat:550:550:0:Moved

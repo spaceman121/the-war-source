@@ -1,0 +1,21 @@
+mapname:forest
+maxx:500
+maxy:500
+maxz:100
+amb:0:500:0:500:0:100:birds7.ogg
+noitems:0:500:0:500:0:100:elec_boat:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:helicopter:guided_missile:missile_interseptor
+tile:0:500:0:500:0:0:grass3
+fightingstate:0
+zone:0:500:0:500:0:100:Animal's World
+zone:50:50:50:50:0:0:Farm:trackme
+zone:100:100:100:100:0:0:Mountain:trackme
+zone:200:200:200:200:0:0:The Wolf's Cave:trackme
+zone:300:300:300:300:0:0:forest-area:trackme
+zone:400:400:400:400:0:0:The Lion's Den:trackme
+zone:500:500:500:500:0:10:go back:trackme
+travelpoint:500:500:500:500:0:0:main_streat:0:950:0:welcome back
+
+noitems:0:500:0:500:0:500:stun_dart
+noitems:0:500:0:500:0:500:ml_Automatic_machinegun
+noitems:0:500:0:500:0:500:stp429
+noitems:0:5555:0:5555:0:5555:elecboat

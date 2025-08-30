@@ -1,0 +1,34 @@
+mapname:dancing_hall
+maxx:150
+maxy:150
+maxz:150
+tile:0:150:0:150:0:0:carpet
+zone:0:150:0:150:0:150:dancing hall
+zone:60:150:60:150:10:150:stage:trackme
+tile:60:150:60:150:10:10:carpet2
+tile:60:60:60:60:0:9:stairs
+tile:60:60:0:150:10:10:wallbeaulon
+tile:0:150:0:150:10:10:carpet2
+zone:0:150:0:150:10:150:stage
+src:0:150:0:150:20:150:dancing_hall.ogg
+zone:100:100:100:100:0:0:food and drink counter:trackme
+zone:125:150:125:150:0:0:a long table near the food area:trackme
+tile:125:150:125:150:0:4:glass
+zone:25:50:35:70:0:8:tables near the stage:trackme
+tile:25:25:35:35:0:4:glass
+tile:28:28:35:35:0:4:glass
+tile:31:31:38:38:0:4:glass
+tile:40:40:40:40:0:4:glass
+tile:50:50:50:50:0:4:glass
+fightingstate:0
+noitems:0:500:0:500:0:500:suicide_bomb
+noitems:0:500:0:500:0:500:nuclear_bomb
+noitems:0:555:0:555:0:555:guided_missile:suicide_bomb:nuclear_bomb:motion_bomb:timebomb:ultrabomb:stp429:pipe_bomb:mlk_203_combat_pistol:aircraft:tank:police_car:police_car_super:Truck:armored_tank:wood:mine:rocketlauncher:helicopter:cannon:stun_dart:stun_grenade:concussive_grenade:shield
+noitems:0:555:0:555:0:555:bazooka
+noitems:0:555:0:555:0:555:browning_m2_heavy_50_cal_machinegun
+noitems:0:555:0:555:0:555:blz83_portable_machine_gun
+noitems:0:500:0:500:0:500:dogan_slx
+noitems:0:5555:0:5555:0:5555:elecboat
+noitems:0:500:0:500:0:500:stone
+zone:10:10:10:10:0:0:go back:trackme
+travelpoint:10:10:10:10:0:0:main:0:0:0:welcome back!

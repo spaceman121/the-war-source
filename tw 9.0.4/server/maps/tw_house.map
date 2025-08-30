@@ -1,0 +1,118 @@
+mapname:tw_house
+maxx:500
+maxy:500
+maxz:500
+tile:0:500:0:500:0:0:carpet3
+zone:0:500:0:500:0:500:The War House
+fightingstate:0
+noitems:0:500:0:500:0:500:suicide_bomb
+noitems:0:500:0:500:0:500:nuclear_bomb
+zone:51:200:0:200:40:70:Roof of the house
+zone:52:99:0:100:0:20:Main Hall
+zone:0:50:99:200:40:70:Roof of the house
+fightingstate:0
+amb:0:50:0:100:0:100:b2.ogg
+zone:0:50:0:100:0:100:A Small Garden
+tile:0:50:0:100:0:0:shortgrass
+tile:51:51:0:100:0:40:wallstone2
+tile:0:50:101:101:0:100:wallstone2
+door:50:100:0:52:100:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+door:52:100:0:50:100:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+tile:45:50:90:100:0:0:concrete4
+zone:45:50:90:100:0:10:Pathway to the House
+zone:50:50:100:100:0:10:Door to the main hall:trackme
+zone:51:60:100:100:0:10:Pathway to garden
+zone:52:52:100:100:0:10:Door to Garden:trackme
+tile:50:50:50:50:0:8:grass
+zone:50:50:50:50:0:8:A Small Tree:trackme
+tile:10:10:10:10:0:4:grass3
+tile:30:34:50:55:0:0:grass3
+zone:10:10:10:10:0:10:A Wonderful Flower:trackme
+zone:30:34:50:55:0:0:Row of some beautiful flowers:trackme
+tile:30:34:50:55:0:0:grass3
+tile:21:30:71:80:0:0:swimming
+src:21:30:71:75:5:30:stream.ogg
+zone:21:30:70:80:-20:100:A small Pond:trackme
+tile:21:30:71:80:-20:-1:underwater
+tile:20:20:70:81:0:100:wallcontainer
+tile:25:31:71:81:0:100:wallcontainer
+tile:21:31:81:81:0:100:wallcontainer
+tile:30:30:30:30:0:15:grass
+zone:30:30:30:30:0:15:A big Tree:trackme
+tile:51:60:100:100:0:0:concrete4
+tile:51:51:100:100:0:100:wallwooddoor
+tile:50:50:99:99:0:40:concrete3
+zone:50:50:99:99:0:40:Stares:trackme
+tile:51:200:0:200:40:40:concrete12
+tile:0:50:100:200:40:40:concrete12
+tile:0:50:100:100:10:70:wallstone2
+tile:51:51:0:98:40:70:wallstone2
+zone:51:53:99:99:40:50:Near the stares
+amb:51:200:0:200:40:70:b2.ogg
+amb:0:50:100:200:40:70:b2.ogg
+tile:100:100:0:99:0:30:wallstone2
+tile:100:100:100:100:0:30:wallwooddoor
+tile:51:100:101:101:0:30:wallstone2
+door:99:100:0:101:100:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+door:101:100:0:99:100:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+zone:99:99:100:100:0:10:Door
+zone:101:101:100:100:0:10:Door
+tile:99:99:100:100:0:0:concrete5
+tile:101:200:0:200:0:0:concrete6
+tile:101:101:100:100:0:0:concrete5
+tile:0:100:102:200:0:0:concrete6
+zone:110:160:50:100:0:40:Developer Malik Ali's Room
+tile:110:161:100:100:0:30:wallstone2
+tile:161:161:49:99:0:30:wallstone2
+tile:110:161:49:49:0:30:wallstone2
+tile:109:109:49:100:0:30:wallstone2
+door:108:99:0:110:99:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+door:110:99:0:108:99:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+tile:110:160:50:99:0:0:carpet3
+zone:108:108:99:99:0:10:Entrance to Developer Malik Ali's Room:trackme
+zone:110:110:99:99:0:10:Exit from Developer Malik Ali's Room:trackme
+amb:110:160:50:100:0:30:air.ogg
+zone:201:300:201:300:0:30:guardian's chambers
+tile:200:300:200:200:0:30:wallstone2
+tile:200:200:200:300:0:30:wallstone2
+tile:200:300:301:301:0:30:wallstone2
+tile:301:301:200:300:0:30:wallstone2
+tile:109:109:99:99:0:10:wallwooddoor
+zone:350:400:350:400:0:20:Admin Raja Hamid's Room
+zone:200:200:199:199:0:10:entrance to guardian's chambers:trackme
+door:200:199:0:201:201:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+door:201:201:0:200:199:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+
+zone:201:201:201:201:0:10:Exit from guardian's chambers:trackme
+tile:200:200:200:200:0:10:wallwooddoor
+tile:201:201:200:200:0:10:wallwooddoor
+door:348:349:0:350:349:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+noitems:0:555:0:555:0:555:guided_missile:suicide_bomb:nuclear_bomb:motion_bomb:timebomb:ultrabomb:stp429:pipe_bomb:mlk_203_combat_pistol:aircraft:tank:police_car:police_car_super:Truck:armored_tank:wood:mine:rocketlauncher:helicopter:cannon:stun_dart:stun_grenade:concussive_grenade:shield
+noitems:0:555:0:555:0:555:bazooka
+noitems:0:555:0:555:0:555:browning_m2_heavy_50_cal_machinegun
+noitems:0:555:0:555:0:555:blz83_portable_machine_gun
+door:350:349:0:348:349:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+
+travelpoint:0:0:0:0:0:0:main:0:0:0:Moved
+zone:0:0:0:0:0:10:Go Back:trackme
+noitems:0:500:0:500:0:500:dogan_slx
+zone:350:350:349:349:0:10:Exit from Admin Raja Hamid's Room:trackme
+zone:348:348:349:349:0:10:Entrance to Admin Raja Hamid's Room:trackme
+tile:349:349:349:400:349:349:100:0:30:wallstone2
+tile:350:400:0:0:0:30:wallstone2
+tile:109:109:0:20:0:35:wallstone2
+zone:110:130:0:20:0:30:Toylet
+tile:131:131:0:20:0:35:wallstone2
+tile:110:120:0:20:0:0:concrete2
+
+tile:109:131:20:20:0:35:wallstone2
+door:108:19:0:110:19:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+door:110:19:0:108:19:0:1000:doors.ogg:door2movings.ogg:dooropen31.ogg:doorclose34.ogg
+
+zone:108:108:19:19:0:10:Entrence to the toylet:trackme
+zone:110:110:19:19:0:10:Exit from the toylet:trackme
+zone:99:99:100:100:0:0:door to the living area:trackme
+zone:101:101:100:100:0:0:exit from living area:trackme
+zone:348:348:349:349:0:10:Entrance to Master Killer Cross's Room:trackme
+noitems:0:5555:0:5555:0:5555:elecboat
+noitems:0:500:0:500:0:500:stone

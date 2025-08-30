@@ -1,0 +1,17 @@
+name boar
+health 1500000
+defence 1000
+speed 350
+damage 50000
+shoot 2000
+distance 10
+aggro 1000
+spread 5
+angle 360
+steps 0
+loot dead_boar
+amount 1
+kills 5
+voices 5
+minxp 200
+maxxp 900

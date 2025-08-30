@@ -1,0 +1,55 @@
+mapname:Relaxing_room
+maxx:100
+maxy:100
+maxz:100
+tile:0:100:0:100:0:0:carpet
+zone:0:100:0:100:0:100:The War Relaxing Room
+noitems:0:500:0:500:0:500:tank
+noitems:0:500:0:500:0:500:aircraft
+noitems:0:500:0:500:0:500:dogan_xlx
+noitems:0:500:0:500:0:500:dogan_slx
+noitems:0:500:0:500:0:500:armored_tank
+noitems:0:500:0:500:0:500:elec_boat:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:500:0:500:0:500:suicide_bomb
+noitems:0:500:0:500:0:500:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:nuclear_bomb
+noitems:0:500:0:500:0:500:hors:boat
+noitems:0:500:0:500:0:500:tasing_small_projectile
+noitems:0:500:0:500:0:500:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:100:0:100:0:100:elec_boat:police_motorcycle:police_car_super:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:500:0:500:0:500:elec_boat:nuclear_bomb:suicide_bomb:pipe_bomb:grenade:hand_grenade:stun_grenade:sound_grenade:stone:wood:timebomb:motion_bomb:fire_starter:helicopter:guided_missile:missile_interseptor:stun_dart:fight_inviter
+noitems:0:500:0:500:0:500:suicide_bomb
+noitems:0:500:0:500:0:500:wirebomb:motion_bomb:mine:stun_dart:remote_timebomb:security_bomb:remote_gun:timebomb:warp_box:barricade_bomb:health_dart:suicide_bomb:mass_bomb:grenade:concussive_grenade:rocket_launcher,bottle_bomb:missile_interceptor:impact_bomb:aircraft:bomb_defuser:wood:guided_missile:tank:police_car:ultrabomb:tank:bottle_bomb:carrier_missile:bullet_bomb:stone:stun_grenade:sticky_bomb:censorbomb:stone:fire_starter:censor_bomb:nuclear_bomb
+noitems:0:500:0:500:0:500:hors:boat
+noitems:0:500:0:500:0:500:tasing_small_projectile
+noitems:0:500:0:500:0:500:ultrabomb
+noitems:0:500:0:500:0:500:ultrabomb_silencer
+noitems:0:500:0:500:0:500:tank
+noitems:0:500:0:500:0:500:armered_tank
+noitems:0:500:0:500:0:500:armored_tank
+noitems:0:500:0:500:0:500:Truck
+noitems:0:500:0:500:0:500:police_car
+noitems:0:500:0:500:0:500:aircraft
+noitems:0:500:0:500:0:500:dogan_slx
+noitems:0:500:0:500:0:500:suicide_bomb
+noitems:0:100:0:100:0:100:modern_sub_machine_gun_carbine
+noitems:0:100:0:100:0:100:ml_Automatic_machinegun
+noitems:0:100:0:100:0:100:mlk_203_combat_pistol
+noitems:0:100:0:100:0:100:m29_sniper_rifle
+noitems:0:100:0:100:0:100:invisibility_shield
+zone:0:0:0:0:0:10:Go Back:trackme
+tile:20:20:0:0:0:3:carpet3
+zone:20:20:0:0:0:3:A small sofa:trackme
+tile:0:10:20:30:5:5:carpet3
+zone:0:10:20:30:5:5:Bed:trackme
+tile:20:20:20:20:0:3:chair
+noitems:0:100:0:100:-50:100:stp429
+fightingstate:0
+travelpoint:0:0:0:0:0:0:main:25:0:0:Welcome
+tile:30:30:20:20:0:2:chair
+zone:20:20:20:20:0:3:Chair:trackme
+zone:30:30:20:20:0:3:Chair:trackme
+tile:40:40:20:20:0:2:chair
+zone:40:40:20:20:0:3:Chair:trackme
+noitems:0:5555:0:5555:0:5555:elecboat
+tile:22:22:0:0:0:3:carpet3
+zone:22:22:0:0:0:3:An other small sofa:trackme
